@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/4z4t2e" group-title="KIDS",BABY TV
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jhxqn" group-title="KIDS",BITME
 http://181.118.150.27:8000/play/a001/index.m3u8?hls
