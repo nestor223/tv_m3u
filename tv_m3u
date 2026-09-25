@@ -42,21 +42,13 @@ http://23.137.84.107:8443/suegroc/ancap/1241357
 http://23.137.84.107:8443/suegroc/ancap/46490
 #EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAVO DEL OCHO" tvg-logo="http://descargas.podzone.net/logos2/24-7-elchavo-del-ocho.png" group-title="CANALES 24/7",24/7 EL CHAVO DEL OCHO
 http://23.137.84.107:8443/suegroc/ancap/18576
-#EXTINF:-1 tvg-id="" tvg-name="ACCESO TOTAL" tvg-logo="https://descargas.podzone.net/Logos3/751b92d3-6985-43ad-80b4-9289c70b433f.png" group-title="•LA CASA DE LOS FAMOSOS•",ACCESO TOTAL
-http://23.137.84.107:8443/suegroc/ancap/1303202
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Fox_Sports_Argentina_2023.svg/revision/latest/scale-to-width-down/200?cb=20230305142851&path-prefix=es",Fox Sports | AR
-http://cloudtvserviceplatinum.site/live/MartinT/q4yRAjHz37/712748.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://daleplay.biz:8080/images/772cff44a570f0c7f2b0fdf0803d9842.png",Argentina - Telefe SD
-http://23.153.217.158:8080/live/945527550tv/jT670E3aM/53225.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://daleplay.biz:8080/images/772cff44a570f0c7f2b0fdf0803d9842.png",Argentina - Telefe HD
-http://23.153.217.158:8080/live/945527550tv/jT670E3aM/53226.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Argentina|| TELEFE HD
 http://23.153.217.158:8080/live/945527550tv/jT670E3aM/61544.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://cdn.mitvstatic.com/channels/ee087e31-a99a-4bcd-a2ea-411028f12a48_m.jpg",Argentina|| Telefe  (Argentina)
 http://23.153.217.158:8080/live/945527550tv/jT670E3aM/61546.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Argentina|| TELEFE  :)
 http://23.153.217.158:8080/live/945527550tv/jT670E3aM/61547.m3u8
-#EXTINF:-1 group-title="ARGENTINA",TelefeHD
+#EXTINF:-1 group-title="ARGENTINA"tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",TelefeHD
 http://23.153.217.158:8080/live/945527550tv/jT670E3aM/61548.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",ARG: Telefe HD
 http://23.153.217.158:8080/live/945527550tv/jT670E3aM/61549.m3u8
