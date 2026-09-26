@@ -1,403 +1,238 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/4z4t2e" group-title="KIDS",BABY TV
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jhxqn" group-title="KIDS",BITME
-http://181.118.150.27:8000/play/a001/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jhxqn" group-title="KIDS",BITME
-http://181.118.153.15:8000/play/wb06/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/6p9pm" group-title="KIDS",CARTOON NETWORK
-http://181.118.150.27:8000/play/a032/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/6p9pm" group-title="KIDS",CARTOON NETWORK
-http://181.118.150.27:8000/play/a04b/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/6p9pm" group-title="KIDS",CARTOON NETWORK
-http://181.118.153.15:8000/play/vo77/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jq9pyk" group-title="KIDS",CARTOONITO
-http://181.118.150.27:8000/play/a036/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jq9pyk" group-title="KIDS",CARTOONITO
-http://181.118.153.15:8000/play/ai30/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/h62pb" group-title="KIDS",DISCOVERY KIDS
-http://181.118.150.27:8000/play/a02w/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/h62pb" group-title="KIDS",DISCOVERY KIDS
-http://181.118.153.15:8000/play/to67/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/3yghh" group-title="⭐️KIDS⭐️",DISNEY CHANNEL
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/k829b" group-title="⭐️KIDS⭐️",DISNEY JR
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/egc5vz" group-title="⭐️KIDS⭐️",TOONCAST
-http://181.118.150.27:8000/play/a03c/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/q9y9l" group-title="⭐️KIDS⭐️",NICKTOONS
-
-
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",CALI TV
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",CANAL CAPITAL
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",CANAL INSTITUCIONAL
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",CANAL TRO
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",LIFE FIT
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",MULTICANAL
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",OASIS TV
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/sc02k" group-title="⭐️COLOMBIA⭐️",RCTV INFORMATIVO
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/sc02k" group-title="⭐️COLOMBIA⭐️",SEÑAL COLOMBIA
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",TDI COLOMBIA
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/u91j6" group-title="⭐️COLOMBIA TV⭐️",TELEPACIFICO
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",TU UNIVERSO
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",TV FAMILIA
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",TV GRACIA
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",ZOOM
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/z3ioyz" group-title="⭐️COLOMBIA⭐️",Cable Noticias >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/z3ioyz" group-title="⭐️COLOMBIA⭐️",Cable Noticias >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/3c173u" group-title="⭐️COLOMBIA⭐️",Cali TV
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/e7jb9" group-title="⭐️COLOMBIA⭐️",Canal Capital >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/e7jb9" group-title="⭐️COLOMBIA⭐️",Canal Capital >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/tsqv8" group-title="⭐️COLOMBIA⭐️",Canal Uno >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/tsqv8" group-title="⭐️COLOMBIA⭐️",Canal Uno >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/3qrtx" group-title="⭐️COLOMBIA⭐️",CARACOL >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/3qrtx" group-title="⭐️COLOMBIA⭐️",CARACOL >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/3qrtx" group-title="⭐️COLOMBIA⭐️",CARACOL >>3<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/nl2u1r" group-title="⭐️COLOMBIA⭐️",CARACOL HD2
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/y1j8i" group-title="⭐️COLOMBIA⭐️",CARACOL INT >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/y1j8i" group-title="⭐️COLOMBIA⭐️",CARACOL INT >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/pfl3l0" group-title="⭐️COLOMBIA⭐️",CITY TV >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/pfl3l0" group-title="⭐️COLOMBIA⭐️",CITY TV >>2<< 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/pfl3l0" group-title="⭐️COLOMBIA⭐️",CTV BARRANQUILLA 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/he2er" group-title="⭐️COLOMBIA⭐️",EL TIEMPO
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jlns3" group-title="⭐️COLOMBIA⭐️",NTN24
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/zrpxb" group-title="⭐️COLOMBIA⭐️",PASIONES >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/zrpxb" group-title="⭐️COLOMBIA⭐️",PASIONES >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/6gh04" group-title="⭐️COLOMBIA⭐️",RCN >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/6gh04" group-title="⭐️COLOMBIA⭐️",RCN >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/1dqkb3" group-title="⭐️COLOMBIA⭐️",RCN Int
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/735wca" group-title="⭐️COLOMBIA⭐️",RCN Novelas >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/735wca" group-title="⭐️COLOMBIA⭐️",RCN Novelas >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/735wca" group-title="⭐️COLOMBIA⭐️",RCN Novelas >>3<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/735wca" group-title="⭐️COLOMBIA⭐️",RCN Novelas >>4<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/sc02k" group-title="⭐️COLOMBIA⭐️",Señal Colombia >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/sc02k" group-title="⭐️COLOMBIA⭐️",Señal Colombia >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/9cy1z" group-title="⭐️COLOMBIA⭐️",TeleAntioquia >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/9cy1z" group-title="⭐️COLOMBIA⭐️",TeleAntioquia >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/88oqy" group-title="⭐️COLOMBIA⭐️",Telecafé >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/88oqy" group-title="⭐️COLOMBIA⭐️",Telecafé >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/fopox" group-title="⭐️COLOMBIA⭐️",TeleCaribe >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/fopox" group-title="⭐️COLOMBIA⭐️",TeleCaribe >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/2lqcf" group-title="⭐️COLOMBIA⭐️",Telemedellin >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/2lqcf" group-title="⭐️COLOMBIA⭐️",Telemedellin >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/u91j6" group-title="⭐️COLOMBIA⭐️",Telepacifico
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA⭐️",DIRECTV SPORT+ CO
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA⭐️",DIRECTV SPORTS 2 CO
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/8su7p" group-title="⭐️COLOMBIA⭐️",ESPN CO
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA⭐️",ESPN 2 CO
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA⭐️",ESPN 3 CO
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA⭐️",FOX SPORTS 2 CO
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA⭐️",FOX SPORTS 3 CO
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/d8698" group-title="⭐️COLOMBIA⭐️",WIN SPORTS+ >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/d8698" group-title="⭐️COLOMBIA⭐️",WIN SPORTS+ >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/d8698" group-title="⭐️COLOMBIA⭐️",WIN SPORTS+ >>3<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/dmmuk" group-title="⭐️COLOMBIA⭐️",WIN SPORTS >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/dmmuk" group-title="⭐️COLOMBIA⭐️",WIN SPORTS >>2<<
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/bgwk6" group-title="⭐️LATAM INT⭐️",ESPN DEPORTES
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/b16jl" group-title="⭐️LATAM INT⭐️",GALAVISION
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/c04gjw" group-title="⭐️LATAM INT⭐️",NUEVE
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/c04gjw" group-title="⭐️LATAM INT⭐️",STAR TVE
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/1g9fk" group-title="⭐️LATAM INT⭐️",TL NOVELAS UNV
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/b29wp" group-title="⭐️LATAM INT⭐️",TELEMUNDO
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/b6zoi" group-title="⭐️LATAM INT⭐️",TELEMUNDO INT
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/vqwir" group-title="⭐️LATAM INT⭐️",TELEMUNDO PTO RICO
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/rm577" group-title="⭐️LATAM INT⭐️",UNIMAS
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/inmxq" group-title="⭐️LATAM INT⭐️",UNVISION
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/98aoiq" group-title="⭐️CINE Y SERIES⭐️",A&E 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/55oad9" group-title="⭐️CINE Y SERIES⭐️",AMC 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/55oad9" group-title="⭐️CINE Y SERIES⭐️",AMC >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/a56c8d" group-title="⭐️CINE Y SERIES⭐️",AXN >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/a56c8d" group-title="⭐️CINE Y SERIES⭐️",AXN >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/a56c8d" group-title="⭐️CINE Y SERIES⭐️",AXN ESPAÑA
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/e3xox8" group-title="⭐️CINE Y SERIES⭐️",CINE CANAL
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/4qd3yq" group-title="⭐️CINE Y SERIES⭐️",CINE LATINO
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/m6qesa" group-title="⭐️CINE Y SERIES⭐️",CINEMAX 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/1wq00" group-title="⭐️CINE Y SERIES⭐️",DHE
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/848ap" group-title="⭐️CINE Y SERIES⭐️",EUROPA EUROPA 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/7r4xi" group-title="⭐️CINE Y SERIES⭐️",FX >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/dttmGDjH/LIFETIME.png" group-title="⭐️CINE Y SERIES⭐️",LIFETIME >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/dttmGDjH/LIFETIME.png" group-title="⭐️CINE Y SERIES⭐️",LIFETIME >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES⭐️",MULTIPREMIER
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/iqh49" group-title="⭐️CINE Y SERIES⭐️",PARAMOUNT NETWORK
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/ujlfo" group-title="⭐️CINE Y SERIES⭐️",SONY CHANNEL
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/6bu7z" group-title="⭐️CINE Y SERIES⭐️",SPACE
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES⭐️",STAR CHANNEL 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES⭐️",STUDIO UNIVERSAL 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES⭐️",TCM 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES⭐️",TCM ESPAÑA
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES⭐️",TNT 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES⭐️",TNT SERIES 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES⭐️",TNT SERIES 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES⭐️",UNIVERSAL TV 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES⭐️",UNIVERSAL TV >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES⭐️",USA >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES⭐️",USA >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES⭐️",USA >>3<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES⭐️",WARNER >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES⭐️",WARNER >>2<<
-
-
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/g4nesb" group-title="CULTURAL",ANIMAL PLANET
-http://181.118.153.15:8000/play/wz66/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/g4nesb" group-title="CULTURAL",ANIMAL PLANET =2=
-http://181.224.200.5:2277/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/bqye7" group-title="CULTURAL",DISCOVERY CHANNEL
-http://181.118.150.27:8000/play/a04o/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/bqye7" group-title="CULTURAL",DISCOVERY CHANNEL=2=
-http://181.118.153.15:8000/play/lp27/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/bqye7" group-title="CULTURAL",DISCOVERY CHANNEL=2=
-http://181.118.156.46:8000/play/a05s/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/bqye7" group-title="CULTURAL",DISCOVERY CHANNEL =4=
-http://181.224.200.5:2277/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/bqye7" group-title="CULTURAL",DISCOVERY CHANNEL =5=
-
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/ydnn8" group-title="CULTURAL",DISCOVERY CHANNEL ESP
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/otgfo1" group-title="CULTURAL",DISCOVERY CIVILIZATION 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/h1ccv" group-title="CULTURAL",DISCOVERY FAMILIA
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/wnfl4k" group-title="CULTURAL",DISCOVERY H&H
-http://181.118.150.27:8000/play/a04s/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/wnfl4k" group-title="CULTURAL",DISCOVERY H&H
-http://181.118.153.15:8000/play/az43/index.m3u8?hls
-http://181.224.200.5:2277/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/wnfl4k" group-title="CULTURAL",DISCOVERY H&H >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/85qxx" group-title="CULTURAL",DISCOVERY ID
-http://181.224.200.5:2277/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/p2855b" group-title="CULTURAL",DISCOVERY SCIENCE
-http://181.118.153.15:8000/play/py30/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jroyxt" group-title="CULTURAL",DISCOVERY THEATER
-http://181.224.200.5:2277/play/a0bj/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/np3fgn" group-title="CULTURAL",DISCOVERY TL
-http://181.118.153.15:8000/play/sb54/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/np3fgn" group-title="CULTURAL",DISCOVERY TLC >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/y70cj" group-title="CULTURAL",DISCOVERY TURBO
-http://181.118.153.15:8000/play/ht29/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/v2zzs" group-title="CULTURAL",DISCOVERY WORLD
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/k63ea" group-title="CULTURAL",HGTV
-http://181.118.150.27:8000/play/a04t/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/k63ea" group-title="CULTURAL",HGTV
-http://181.118.153.15:8000/play/cs59/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/v2zzs" group-title="CULTURAL",DISCOVERY WORLD
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/p9kw7" group-title="CULTURAL",HISTORIA
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/vf8hk" group-title="CULTURAL",HISTORY
-http://181.224.200.5:2277/play/a02b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/vf8hk" group-title="CULTURAL",HISTORY >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/6o8ix" group-title="CULTURAL",HISTORY 2 
-http://181.224.200.5:2277/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/wqwbd" group-title="CULTURAL",Love Nature
-http://181.224.200.5:2277/play/a036/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/876us" group-title="CULTURAL",IBERALIA TV
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/qm477" group-title="CULTURAL",NATGEO 
-http://181.224.200.5:2277/play/a012/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/f1pnz" group-title="CULTURAL",NATGEO ESP
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/54ug6" group-title="CULTURAL",NATGEO WILD ESP
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/mhjk1y" group-title="CULTURAL",ODISEA
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️ENTRETENIMIENTO⭐️",COMEDY CENTRAL
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️ENTRETENIMIENTO⭐️",DISTRITO COMEDIA
-http://181.176.155.7:8090/play/a0p5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️ENTRETENIMIENTO⭐️",EL GARAGE TV HD
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️ENTRETENIMIENTO⭐️",EL GOURMET
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️ENTRETENIMIENTO⭐️",ETC TV
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️ENTRETENIMIENTO⭐️",HOLA TV
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/pTfYJFS7/LAS-ESTRELLAS.png" group-title="⭐️ENTRETENIMIENTO⭐️",Las Estrellas
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️ENTRETENIMIENTO⭐️",MAS CHIC
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️ENTRETENIMIENTO⭐️",PASIONES
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️ENTRETENIMIENTO⭐️",TLN TLNOVELAS 
-#EXTINF:-1 tvg-id="" tvg-name="Tru TV" tvg-logo="https://i.postimg.cc/jSQrJgqY/TRU-TV.png" group-title="⭐️ENTRETENIMIENTO⭐️",Tru TV
-
-
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="PREMIUM PACK",DE PELICULA 
-http://181.118.153.15:8000/play/bs46/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",DE PELICULA CLASICO
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="PREMIUM PACK",DE PELICULA PLUS 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",GOLDEN >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",GOLDEN >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",GOLDEN >>3<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",GOLDEN EDGE >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",GOLDEN EDGE >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",GOLDEN EDGE >>3<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",GOLDEN PLUS >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",GOLDEN PLUS >>2<< 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",GOLDEN PREMIER >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO >>1<< 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO 2 >>1<< 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO 2 >>2<< 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO FAMILY >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO FAMILY >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO FAMILY >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO FAMILY >>3<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO FAMILY >>4<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO MUNDI 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO PLUS >>1<< 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO PLUS >>2<< 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO POP 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO SIGNATURE >>1<<  
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO XTREME >>1<<  
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO XTREME >>1<<  
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",SONY MOVIES
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT NOVELAS >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT NOVELAS >>2<< 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT NOVELAS >>3<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT NOVELAS >>4<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT SERIES  
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",UNIVERSAL COMEDY
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",UNIVERSAL CRIME 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",UNIVERSAL PREMIER
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",UNIVERSAL REALITY
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/hsr1f0" group-title="⭐️SPORTS⭐️",BEIN SPORTS
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/ydedz" group-title="⭐️SPORTS⭐️",CLARO SPORTS MEX
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/ydedz" group-title="⭐️SPORTS⭐️",CLARO SPORTS GT 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/avb54" group-title="⭐️SPORTS⭐️",D SPORTS >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/avb54" group-title="⭐️SPORTS⭐️",D SPORTS >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/avb54" group-title="⭐️SPORTS⭐️",D SP0RTS ARG
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/avb54" group-title="⭐️SPORTS⭐️",D SP0RTS MEX
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/avb54" group-title="⭐️SPORTS⭐️",D SP0RTS PER
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/bqsauz" group-title="⭐️SPORTS⭐️",D SPORTS +
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/ltes86" group-title="⭐️SPORTS⭐️",ESPN 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/ltes86" group-title="⭐️SPORTS⭐️",ESPN ARG
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/ltes86" group-title="⭐️SPORTS⭐️",ESPN MX
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/x06vr" group-title="⭐️SPORTS⭐️",ESPN 2
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/x06vr" group-title="⭐️SPORTS⭐️",ESPN 2 ARG
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/x06vr" group-title="⭐️SPORTS⭐️",ESPN 2 MX
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/24tdt" group-title="⭐️SPORTS⭐️",ESPN 3
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/24tdt" group-title="⭐️SPORTS⭐️",ESPN 3 ARG
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/fnjni" group-title="⭐️SPORTS⭐️",ESPN 4
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/dlnlo2" group-title="⭐️SPORTS⭐️",ESPN 5
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jspjy" group-title="⭐️SPORTS⭐️",ESPN 6 >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jspjy" group-title="⭐️SPORTS⭐️",ESPN 6 >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jspjy" group-title="⭐️SPORTS⭐️",ESPN 6 >>3<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/paso0" group-title="⭐️SPORTS⭐️",ESPN 7 >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/paso0" group-title="⭐️SPORTS⭐️",ESPN 7 >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/l1yyt" group-title="⭐️SPORTS⭐️",ESPN DEPORTES
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/l1yyt" group-title="⭐️SPORTS⭐️",ESPN DEPORTES >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/05ftg" group-title="⭐️SPORTS⭐️",ESPN PREMIUM
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/05ftg" group-title="⭐️SPORTS⭐️",ESPN PREMIUM ARG
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/VNzdwQfJ/10.png" group-title="⭐️SPORTS⭐️",FOX SPORTS ARG
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/VNzdwQfJ/10.png" group-title="⭐️SPORTS⭐️",FOX SPORTS ARG >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/cHbHfvQ3/11.png" group-title="⭐️SPORTS⭐️",FOX SPORTS 2 ARG
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/cHbHfvQ3/11.png" group-title="⭐️SPORTS⭐️",FOX SPORTS 2 ARG >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/cHbHfvQ3/11.png" group-title="⭐️SPORTS⭐️",FOX SPORTS 2 ARG >>3<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/23pSXg98/12.png" group-title="⭐️SPORTS⭐️",FOX SPORTS 3 ARG >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/23pSXg98/12.png" group-title="⭐️SPORTS⭐️",FOX SPORTS 3 ARG >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/23pSXg98/12.png" group-title="⭐️SPORTS⭐️",FOX SPORTS 3 ARG >>3<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/23pSXg98/12.png" group-title="⭐️SPORTS⭐️",FOX SPORTS 3 CHILE
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/23pSXg98/12.png" group-title="⭐️SPORTS⭐️",FOX SPORTS 3 SUR
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/VNzdwQfJ/10.png" group-title="⭐️SPORTS⭐️",,FOX SPORTS 1 MX
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/VNzdwQfJ/10.png" group-title="⭐️SPORTS⭐️",,FOX SPORTS 1 MX
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/XYSr2Btc/9.png" group-title="⭐️SPORTS⭐️",MEX-FOX SPORTS PREMIUN >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/XYSr2Btc/9.png" group-title="⭐️SPORTS⭐️",MEX-FOX SPORTS PREMIUN >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/XYSr2Btc/9.png" group-title="⭐️SPORTS⭐️",MEX-FOX SPORTS PREMIUN >>3<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",TNT SPORT
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/13RKF8m3/TUDN.png" group-title="⭐️SPORTS⭐️",TUDN USA >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/13RKF8m3/TUDN.png" group-title="⭐️SPORTS⭐️",TUDN USA >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",TUDN MX
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://i.postimg.cc/TYFVHtGB/TYC.png" group-title="⭐️SPORTS⭐️",TYC Sports
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",UFC CHANNEL >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",UFC CHANNEL >>2<<
-
-
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️24/7⭐️",Cinema Happy Madison
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️24/7⭐️",Cinema DC Universe
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️24/7⭐️",Cinema Marvel Studios
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️24/7⭐️",LOS SIMPSON
-
-
-VARIEDADES
-#EXTINF:-1 tvg-id="" tvg-name="[ADULT SWIN]" tvg-logo="https://n9.cl/1mhur" group-title="VARIEDADES",ADULT SWIN
-
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://n9.cl/gbjo1r" group-title="VARIEDADES",COMEDY CENTRAL
-#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://n9.cl/khr247" group-title="VARIEDADES",DISTRITO COMEDIA
-http://181.176.155.7:8090/play/a0p5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://n9.cl/a43gx" group-title="VARIEDADES",E! ENTERTAINMENT
-#EXTINF:-1 tvg-id="" tvg-name="El GOURMET" tvg-logo="https://n9.cl/kuyq7" group-title="VARIEDADES",El GOURMET
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://n9.cl/i4d5x" group-title="VARIEDADES",FOOD NETWORK
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION" tvg-logo="https://n9.cl/wujzla" group-title="VARIEDADES",GALAVISION
-#EXTINF:-1 tvg-id="" tvg-name="GARAGE TV" tvg-logo="https://n9.cl/izb0oc" group-title="VARIEDADES",GARAGE TV
-#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://n9.cl/mr4fd" group-title="VARIEDADES",HOLA TV
-#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" tvg-logo="https://n9.cl/9eg44" group-title="VARIEDADES",LAS ESTRELLAS
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/fqn74" group-title="VARIEDADES",LIFETIME
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://n9.cl/fqn74" group-title="VARIEDADES",LIFETIME OP2
-#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC" tvg-logo="https://n9.cl/2mvix" group-title="VARIEDADES",MAS CHIC
-#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC ESP" tvg-logo="https://n9.cl/2mvix" group-title="VARIEDADES",MAS CHIC (ESP)
-#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS" tvg-logo="https://n9.cl/w0ftl" group-title="VARIEDADES",MULTIMEDIOS
-#EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://n9.cl/77ic08" group-title="VARIEDADES",PANAMERICANA 
-#EXTINF:-1 tvg-id="" tvg-name="TELEFE INT" tvg-logo="https://n9.cl/xp4zxv" group-title="VARIEDADES",TELEFE INT
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/9br5kv" group-title="VARIEDADES",TELEMUNDO 
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INT" tvg-logo="https://n9.cl/kdd98" group-title="VARIEDADES",TELEMUNDO INT
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INT" tvg-logo="https://n9.cl/bj2se" group-title="VARIEDADES",UNIMAS 
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION 23" tvg-logo="https://n9.cl/c0yg30" group-title="VARIEDADES",UNIVISION
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/j7alv9" group-title="PREMIUM PACK",D PELICULA
-http://181.118.153.15:8000/play/bs46/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/rukoo0" group-title="PREMIUM PACK",D PELICULA PLUS 
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/u9dq5q" group-title="PREMIUM PACK",GOLDEN
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/3g9ku" group-title="PREMIUM PACK",GOLDEN EDGE
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mmu0z" group-title="PREMIUM PACK",GOLDEN PLUS
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ig36i" group-title="PREMIUM PACK",GOLDEN PREMIER 
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/rz11e" group-title="PREMIUM PACK",HBO OP1
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/rz11e" group-title="PREMIUM PACK",HBO OP2
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/rz11e" group-title="PREMIUM PACK",HBO OP3
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/rz11e" group-title="PREMIUM PACK",HBO OP4
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/98nbem" group-title="PREMIUM PACK",HBO 2 OP1
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/98nbem" group-title="PREMIUM PACK",HBO 2 OP2
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/d8k90" group-title="PREMIUM PACK",HBO FAMILY
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/yoo7d" group-title="PREMIUM PACK",HBO MUNDI
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/do2hss" group-title="PREMIUM PACK",HBO PLUS
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/c3hm4o" group-title="PREMIUM PACK",HBO POP
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/1lrau" group-title="PREMIUM PACK",HBO SIGNATURE
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/8ed2s" group-title="PREMIUM PACK",HBO XTREME
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fdqhj" group-title="PREMIUM PACK",SONY CHANNEL 
-http://181.118.156.46:8000/play/a05u/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fdqhj" group-title="PREMIUM PACK",SONY CHANNEL OP2
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ihk7f" group-title="PREMIUM PACK",SONY MOVIES 
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/5a72v1" group-title="PREMIUM PACK",SONY TELENOVELAS
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fg0wd" group-title="PREMIUM PACK",TNT
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fg0wd" group-title="PREMIUM PACK",TNT OP2
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/tmar6" group-title="PREMIUM PACK",TNT NOVELAS
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/u6tlw" group-title="PREMIUM PACK",TNT SERIES
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/u6tlw" group-title="PREMIUM PACK",TNT SERIES OP2
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/o1bhs" group-title="PREMIUM PACK",TNT SPORT CHI
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/o1bhs" group-title="PREMIUM PACK",TNT SPORT PREMIUM ARG
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/o1bhs" group-title="PREMIUM PACK",TNT SPORT PREMIUM CHI
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mo72t" group-title="PREMIUM PACK",UNIVERSAL TV
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/pzmza" group-title="PREMIUM PACK",UNIVERSAL CINEMA
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/vh6yz" group-title="PREMIUM PACK",UNIVERSAL COMEDY
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/f33hn" group-title="PREMIUM PACK",UNIVERSAL CRIME
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/f33hn" group-title="PREMIUM PACK",UNIVERSAL CRIME OP2
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/f33hn" group-title="PREMIUM PACK",UNIVERSAL CRIME OP3
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/6jekf" group-title="PREMIUM PACK",UNIVERSAL PREMIERE
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/6jekf" group-title="PREMIUM PACK",UNIVERSAL PREMIERE OP2
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cjdjg" group-title="PREMIUM PACK",UNIVERSAL REALITY
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cjdjg" group-title="PREMIUM PACK",UNIVERSAL REALITY OP2
-
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/wgc9a" group-title="CINE Y SERIES",A&E >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/wgc9a" group-title="CINE Y SERIES",A&E >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/wgc9a" group-title="CINE Y SERIES",A&E >>3<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/7y61k" group-title="CINE Y SERIES",A3 Cine INT
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/rkz06" group-title="CINE Y SERIES",A3 Series
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jjxj5" group-title="CINE Y SERIES",AMC >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jjxj5" group-title="CINE Y SERIES",AMC >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jjxj5" group-title="CINE Y SERIES",AMC >>3<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jls8o" group-title="CINE Y SERIES",AXN >>1<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jls8o" group-title="CINE Y SERIES",AXN >>2<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jls8o" group-title="CINE Y SERIES",AXN >>3<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jls8o" group-title="CINE Y SERIES",AXN >>4<<
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/wy2yc" group-title="CINE Y SERIES",Cinecanal (L)(720)
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/wy2yc" group-title="CINE Y SERIES",CineCanal (TV)(1080)
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/wy2yc" group-title="CINE Y SERIES",CineCanal (TV)(720)
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/wy2yc" group-title="CINE Y SERIES",Cinecanal (Z)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE ACCION 01" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",CINE ACCION 01
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20347
+#EXTINF:-1 tvg-id="" tvg-name="CINE: Acción 02" tvg-logo="" group-title="24/7",CINE: Acción 02
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74599
+#EXTINF:-1 tvg-id="" tvg-name="CINE: Acción 03" tvg-logo="" group-title="24/7",CINE: Acción 03
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74600
+#EXTINF:-1 tvg-id="" tvg-name="CINE: Acción 04" tvg-logo="" group-title="24/7",CINE: Acción 04
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74601
+#EXTINF:-1 tvg-id="" tvg-name="CINE: Acción 05" tvg-logo="" group-title="24/7",CINE: Acción 05
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74602
+#EXTINF:-1 tvg-id="" tvg-name="Animaciones" tvg-logo="" group-title="24/7",Animaciones
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74603
+#EXTINF:-1 tvg-id="" tvg-name="El mentalista" tvg-logo="" group-title="24/7",El mentalista
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74604
+#EXTINF:-1 tvg-id="" tvg-name="Cine Club" tvg-logo="" group-title="24/7",Cine Club
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74605
+#EXTINF:-1 tvg-id="" tvg-name="CINE: Familiar 01" tvg-logo="" group-title="24/7",CINE: Familiar 01
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74606
+#EXTINF:-1 tvg-id="" tvg-name="CINE: ORO" tvg-logo="" group-title="24/7",CINE: ORO
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74607
+#EXTINF:-1 tvg-id="" tvg-name="El Laboratorio de Dexter [1 - 4T]" tvg-logo="" group-title="24/7",El Laboratorio de Dexter [1 - 4T]
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74608
+#EXTINF:-1 tvg-id="" tvg-name="DraginBall" tvg-logo="" group-title="24/7",DraginBall
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74609
+#EXTINF:-1 tvg-id="" tvg-name="Dragon BallGT" tvg-logo="" group-title="24/7",Dragon BallGT
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74610
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="" group-title="24/7",Dragon Ball Super
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74611
+#EXTINF:-1 tvg-id="" tvg-name="Dragin Ball Z" tvg-logo="" group-title="24/7",Dragin Ball Z
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74612
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy" tvg-logo="" group-title="24/7",Family Guy
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74613
+#EXTINF:-1 tvg-id="" tvg-name="Clásicos Disney" tvg-logo="" group-title="24/7",Clásicos Disney
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74614
+#EXTINF:-1 tvg-id="" tvg-name="Las aventuras de Tom Sawyer" tvg-logo="" group-title="24/7",Las aventuras de Tom Sawyer
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74615
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Universo DC" tvg-logo="" group-title="24/7",Peliculas Universo DC
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74616
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Batman" tvg-logo="" group-title="24/7",Peliculas Batman
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74617
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones HD" tvg-logo="" group-title="24/7",Game of Thrones HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74618
+#EXTINF:-1 tvg-id="" tvg-name="Las nuevas aventuras de Batman" tvg-logo="" group-title="24/7",Las nuevas aventuras de Batman
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74619
+#EXTINF:-1 tvg-id="" tvg-name="House of Cards" tvg-logo="" group-title="24/7",House of Cards
+http://planettvweb.com:8091/Schnyder56/VLap5784d/74620
+#EXTINF:-1 tvg-id="" tvg-name="CINE ESTELAR" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",CINE ESTELAR
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17758
+#EXTINF:-1 tvg-id="" tvg-name="Cine Romance" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Cine Romance
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17759
+#EXTINF:-1 tvg-id="" tvg-name="Estrellas de Acción" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Estrellas de Acción
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17760
+#EXTINF:-1 tvg-id="" tvg-name="La casa de papel" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",La casa de papel
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20341
+#EXTINF:-1 tvg-id="" tvg-name="Cine Accion 2" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Cine Accion 2
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17788
+#EXTINF:-1 tvg-id="" tvg-name="Cine Comedia 2" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Cine Comedia 2
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17789
+#EXTINF:-1 tvg-id="" tvg-name="DR House" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",DR House
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20342
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Marvel Cronologia" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Peliculas Marvel Cronologia
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20343
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad [Completo]" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Breaking Bad [Completo]
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20344
+#EXTINF:-1 tvg-id="" tvg-name="Cine Ficcion/Fantasia 1" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Cine Ficcion/Fantasia 1
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20345
+#EXTINF:-1 tvg-id="" tvg-name="Ficcion/Fantasia 2" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Ficcion/Fantasia 2
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20346
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Los años maravillosos
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20348
+#EXTINF:-1 tvg-id="" tvg-name="Cine Infantil" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Cine Infantil
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20349
+#EXTINF:-1 tvg-id="" tvg-name="Cine Infantil HD" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Cine Infantil HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20350
+#EXTINF:-1 tvg-id="" tvg-name="Cine Infantil Sagas HD" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Cine Infantil Sagas HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20351
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Cine Latino
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20352
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Marvel Orden Estreno" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Peliculas Marvel Orden Estreno
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20353
+#EXTINF:-1 tvg-id="" tvg-name="Cine Romance HD" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Cine Romance HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20354
+#EXTINF:-1 tvg-id="" tvg-name="Cine Terror" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Cine Terror
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20355
+#EXTINF:-1 tvg-id="" tvg-name="Cine Zombis" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Cine Zombis
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20356
+#EXTINF:-1 tvg-id="" tvg-name="TV Series Retro" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",TV Series Retro
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16433
+#EXTINF:-1 tvg-id="" tvg-name="TV Ciencia" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",TV Ciencia
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17756
+#EXTINF:-1 tvg-id="" tvg-name="TV Animales" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",TV Animales
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17757
+#EXTINF:-1 tvg-id="" tvg-name="Los archivos del FBI" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Los archivos del FBI
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17772
+#EXTINF:-1 tvg-id="" tvg-name="Cine drama" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Cine drama
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17784
+#EXTINF:-1 tvg-id="" tvg-name="Misterios sin Resolver " tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Misterios sin Resolver 
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17786
+#EXTINF:-1 tvg-id="" tvg-name="TV ANIME" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",TV ANIME
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17762
+#EXTINF:-1 tvg-id="" tvg-name="Cine familia" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Cine familia
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17766
+#EXTINF:-1 tvg-id="" tvg-name="Tv Humor" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Tv Humor
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17768
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Bob Esponja
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16421
+#EXTINF:-1 tvg-id="" tvg-name="Telenovelas" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Telenovelas
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17778
+#EXTINF:-1 tvg-id="" tvg-name="CANTINFLAS SD" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",CANTINFLAS SD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16422
+#EXTINF:-1 tvg-id="" tvg-name="SD:Chespirito" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",SD:Chespirito
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16423
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY PRINCESAS" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",DISNEY PRINCESAS
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16424
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson (Temporadas 1-5)" tvg-logo="" group-title="24/7",Los Simpson (Temporadas 1-5)
+http://planettvweb.com:8091/Schnyder56/VLap5784d/38573
+#EXTINF:-1 tvg-id="" tvg-name="Sin senos sí hay paraíso" tvg-logo="" group-title="24/7",Sin senos sí hay paraíso
+http://planettvweb.com:8091/Schnyder56/VLap5784d/38574
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson (Temporadas 18-21)" tvg-logo="" group-title="24/7",Los Simpson (Temporadas 18-21)
+http://planettvweb.com:8091/Schnyder56/VLap5784d/38575
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson (Temporadas 22-26)" tvg-logo="" group-title="24/7",Los Simpson (Temporadas 22-26)
+http://planettvweb.com:8091/Schnyder56/VLap5784d/38576
+#EXTINF:-1 tvg-id="" tvg-name="Sin Senos no hay Paraíso" tvg-logo="" group-title="24/7",Sin Senos no hay Paraíso
+http://planettvweb.com:8091/Schnyder56/VLap5784d/38577
+#EXTINF:-1 tvg-id="" tvg-name="SD:EL CHAVO DEL 8" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",SD:EL CHAVO DEL 8
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16425
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD:CHAPULIN COLORADO" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",LA_SD:CHAPULIN COLORADO
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16426
+#EXTINF:-1 tvg-id="" tvg-name="SD:MR. BEAN" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",SD:MR. BEAN
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16427
+#EXTINF:-1 tvg-id="" tvg-name="SD:Looney Tunes" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",SD:Looney Tunes
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16428
+#EXTINF:-1 tvg-id="" tvg-name="SD:Scooby Doo" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",SD:Scooby Doo
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16429
+#EXTINF:-1 tvg-id="" tvg-name="Alf" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Alf
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16430
+#EXTINF:-1 tvg-id="" tvg-name="SD:Los Picapiedra" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",SD:Los Picapiedra
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16431
+#EXTINF:-1 tvg-id="" tvg-name="SD:Two And a Half Men 24/7" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",SD:Two And a Half Men 24/7
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16432
+#EXTINF:-1 tvg-id="" tvg-name="SD:Dragon Ball GT" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",SD:Dragon Ball GT
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16434
+#EXTINF:-1 tvg-id="" tvg-name="SD:DRAGON BALL" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",SD:DRAGON BALL
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16435
+#EXTINF:-1 tvg-id="" tvg-name="SD:Naruto" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",SD:Naruto
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16436
+#EXTINF:-1 tvg-id="" tvg-name="Friends" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Friends
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16437
+#EXTINF:-1 tvg-id="" tvg-name="Elfen Lied" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Elfen Lied
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17747
+#EXTINF:-1 tvg-id="" tvg-name="Looney Tunes" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Looney Tunes
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17748
+#EXTINF:-1 tvg-id="" tvg-name="El Coyote y el Correcaminos [Completo]" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",El Coyote y el Correcaminos [Completo]
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17749
+#EXTINF:-1 tvg-id="" tvg-name="Nuestro Cine" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Nuestro Cine
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17750
+#EXTINF:-1 tvg-id="" tvg-name="TOM Y JERRY SERIE COMPLETA" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",TOM Y JERRY SERIE COMPLETA
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17751
+#EXTINF:-1 tvg-id="" tvg-name="Liga De La Justicia Ilimitada" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Liga De La Justicia Ilimitada
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17752
+#EXTINF:-1 tvg-id="" tvg-name="Daremound" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Daremound
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17753
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Scary Movie" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Peliculas Scary Movie
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17754
+#EXTINF:-1 tvg-id="" tvg-name="PINKI ELVIRA Y CEREBRO" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",PINKI ELVIRA Y CEREBRO
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17755
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Pokémon
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17761
+#EXTINF:-1 tvg-id="" tvg-name="Los Picapiedra" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Los Picapiedra
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17763
+#EXTINF:-1 tvg-id="" tvg-name="Series" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Series
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17771
+#EXTINF:-1 tvg-id="" tvg-name="Un Show Más" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Un Show Más
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17764
+#EXTINF:-1 tvg-id="" tvg-name="LA PANTERA ROSA" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",LA PANTERA ROSA
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17765
+#EXTINF:-1 tvg-id="" tvg-name="GARFIELD Y SUS AMIGOS" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",GARFIELD Y SUS AMIGOS
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17767
+#EXTINF:-1 tvg-id="" tvg-name="EL SHOW DE LA PEQUEÑA LU LU" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",EL SHOW DE LA PEQUEÑA LU LU
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17769
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Pablo Escobar
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17770
+#EXTINF:-1 tvg-id="" tvg-name="CORAJE EL PERRO COBARDE" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",CORAJE EL PERRO COBARDE
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17773
+#EXTINF:-1 tvg-id="" tvg-name="Dinosaurios" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Dinosaurios
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17775
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK SERIE TEMPORADA 1 - 10 HD" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",SOUTH PARK SERIE TEMPORADA 1 - 10 HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17776
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK SERIE TEMPORADA 11 -22 HD" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",SOUTH PARK SERIE TEMPORADA 11 -22 HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17777
+#EXTINF:-1 tvg-id="" tvg-name="El Pato Darkwing" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",El Pato Darkwing
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17779
+#EXTINF:-1 tvg-id="" tvg-name="PADRE DE FAMILIA SERIE TEMPORADA 1 - 9 HD " tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",PADRE DE FAMILIA SERIE TEMPORADA 1 - 9 HD 
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17780
+#EXTINF:-1 tvg-id="" tvg-name="PADRE DE FAMILIA SERIE TEMPORADA 10 - 14 HD " tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",PADRE DE FAMILIA SERIE TEMPORADA 10 - 14 HD 
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17781
+#EXTINF:-1 tvg-id="" tvg-name="La vaca y el pollito" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",La vaca y el pollito
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17782
+#EXTINF:-1 tvg-id="" tvg-name="Ed, Edd y Eddy" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Ed, Edd y Eddy
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17785
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",The Big Bang Theory
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17787
+#EXTINF:-1 tvg-id="" tvg-name="Elementary" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Elementary
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17790
+#EXTINF:-1 tvg-id="" tvg-name="Los Tres Chiflados" tvg-logo="" group-title="24/7",Los Tres Chiflados
+http://planettvweb.com:8091/Schnyder56/VLap5784d/39174
+#EXTINF:-1 tvg-id="" tvg-name="El Gallo Claudio" tvg-logo="" group-title="24/7",El Gallo Claudio
+http://planettvweb.com:8091/Schnyder56/VLap5784d/73706
+#EXTINF:-1 tvg-id="" tvg-name="Animaniacs" tvg-logo="" group-title="24/7",Animaniacs
+http://planettvweb.com:8091/Schnyder56/VLap5784d/73707
+#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold! [Completo]" tvg-logo="" group-title="24/7",Hey Arnold! [Completo]
+http://planettvweb.com:8091/Schnyder56/VLap5784d/73708
+#EXTINF:-1 tvg-id="" tvg-name="Las chicas superpoderosas" tvg-logo="" group-title="24/7",Las chicas superpoderosas
+http://planettvweb.com:8091/Schnyder56/VLap5784d/73709
+#EXTINF:-1 tvg-id="" tvg-name="TrollHunters" tvg-logo="" group-title="24/7",TrollHunters
+http://planettvweb.com:8091/Schnyder56/VLap5784d/73710
+#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh!" tvg-logo="" group-title="24/7",Yu-Gi-Oh!
+http://planettvweb.com:8091/Schnyder56/VLap5784d/73711
+#EXTINF:-1 tvg-id="" tvg-name="El Principel del Rap" tvg-logo="" group-title="24/7",El Principel del Rap
+http://planettvweb.com:8091/Schnyder56/VLap5784d/73712
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man" tvg-logo="" group-title="24/7",One Punch Man
+http://planettvweb.com:8091/Schnyder56/VLap5784d/73713
+#EXTINF:-1 tvg-id="" tvg-name="Smallville" tvg-logo="" group-title="24/7",Smallville
+http://planettvweb.com:8091/Schnyder56/VLap5784d/73714
+#EXTINF:-1 tvg-id="" tvg-name="Doraemon" tvg-logo="" group-title="24/7",Doraemon
+http://planettvweb.com:8091/Schnyder56/VLap5784d/73715
+#EXTINF:-1 tvg-id="" tvg-name="QUE HAY DE NUEVO SCOOBY DOO SERIE COMPLETA" tvg-logo="" group-title="24/7",QUE HAY DE NUEVO SCOOBY DOO SERIE COMPLETA
+http://planettvweb.com:8091/Schnyder56/VLap5784d/73716
+#EXTINF:-1 tvg-id="" tvg-name="Ranma ½ HD" tvg-logo="" group-title="24/7",Ranma ½ HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/73717
+#EXTINF:-1 tvg-id="" tvg-name="Cine Romantico" tvg-logo="" group-title="24/7",Cine Romantico
+http://planettvweb.com:8091/Schnyder56/VLap5784d/101814
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Inframundo" tvg-logo="" group-title="24/7",Peliculas Inframundo
+http://planettvweb.com:8091/Schnyder56/VLap5784d/101815
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-08-19-93a3a51b-543d-4610-b7a4-3dee79331adf.png" group-title="RADIO CRISTIANA",GOSPEL FM 88.1
 https://ohradio.cc/8092/stream
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-08-19-2d65fdf0-0e30-4b61-b6c4-b0718f74b3e3.png" group-title="RADIO CRISTIANA",RADIO SHEKINAH
