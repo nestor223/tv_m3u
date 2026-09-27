@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="CHILE" tvg-logo="http://redworld.pro:8880/images/06074edd7f572f827c08c4ef64c49049.png",CL | CHILEVISION SD
+http://starlatino.tv:8880/5eyu773DUhua/yU29Wd3GXvTp/272240
+#EXTINF:-1 group-title="CHILE" tvg-logo="http://redworld.pro:8880/images/a67edae422309f893a73707b38e9ca09.png",CL | CANAL 13 SD
+http://starlatino.tv:8880/5eyu773DUhua/yU29Wd3GXvTp/272242
+#EXTINF:-1 group-title="CHILE" tvg-logo="http://redworld.pro:8880/images/1ae67befe5da5b3cdd6d0bd76ed1f03f.png",CL | MEGA SD
+http://starlatino.tv:8880/5eyu773DUhua/yU29Wd3GXvTp/28251
+#EXTINF:-1 group-title="CHILE" tvg-logo="http://redworld.pro:8880/images/5c73b6b860ce69ede2f755625889a0ab.png",CL | VIA X HD
+http://starlatino.tv:8880/5eyu773DUhua/yU29Wd3GXvTp/298545
+#EXTINF:-1 group-title="CHILE" tvg-logo="http://redworld.pro:8880/images/615dd9a69b3a31b194c8d0cca6ff32ab.png",CL | TELETRAK HD
+http://starlatino.tv:8880/5eyu773DUhua/yU29Wd3GXvTp/300287
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://descargas.podzone.net/logos/-A24.png",A 24 SD
 http://planettvweb.com:8091/live/ContiaAbella/Cintia638/11865.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://redworld.pro:8880/images/8ac7ad5064fb474a705b93f74e1a358b.png",A24 1
