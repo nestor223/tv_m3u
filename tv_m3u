@@ -1419,6 +1419,12 @@ http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/526541.m3u8
 http://livetv-plus.com:8880/live/sgtpeppercr/5svFF1anF6/177368.ts
 #EXTINF:-1 group-title="24/7" tvg-logo="https://n9.cl/4w72j",ZOEY 101
 http://livetv-plus.com:8880/live/sgtpeppercr/5svFF1anF6/531672.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4VNckWlv1xsa57RF_QlbIPprebWPApnXMCb6oGCLAEhVh1ZGyjB_2Gw&s=10"group-title="CINE PREMIUM",MOVIES
+https://stream-cdn-iad3.vaughnsoft.net/play/live_melonmovies.flv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4VNckWlv1xsa57RF_QlbIPprebWPApnXMCb6oGCLAEhVh1ZGyjB_2Gw&s=10"group-title="CINE PREMIUM",PELÍCULAS MOE
+https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4VNckWlv1xsa57RF_QlbIPprebWPApnXMCb6oGCLAEhVh1ZGyjB_2Gw&s=10"group-title="CINE PREMIUM", MEGAMOVIES
+https://stream-cdn-iad3.vaughnsoft.net/play/live_megamovieshd.flv
 ###########################################(RADIOS SECULAR)#########
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-08-16-4caebd64-797f-4726-9f16-6a58b23082c4.jpg"group-title="RADIO SECULAR",LA PODEROSA DIGITAL 99.3 MHZ
 https://s2.netradiofm.com:9720/stream/?type=http&nocache=1
