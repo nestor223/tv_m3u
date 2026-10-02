@@ -449,8 +449,76 @@ http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/526507.m3u8
 http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/526541.m3u8
 #EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://redworld.pro:8880/images/776e11cb5db6d05cf04a0311fc9bfc8b.jpg",xXx
 http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/526373.m3u8
-
-
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/b58b7fa78b3287771d8164b37a9ee036.png",A24
+http://starlatino.tv:8880/live/63207687/FyqrcUgpkGUB/490446.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/8ac7ad5064fb474a705b93f74e1a358b.png",A24
+http://starlatino.tv:8880/live/63207687/FyqrcUgpkGUB/490464.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/b58b7fa78b3287771d8164b37a9ee036.png",A24
+http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/490446.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",America
+http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/490463.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",America
+http://starlatino.tv:8880/live/63207687/FyqrcUgpkGUB/490463.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",America TV HD*
+http://starlatino.tv:8880/live/63207687/FyqrcUgpkGUB/490450.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",America TV HD*
+http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/490450.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s900-c-k-c0x00ffffff-no-rj",C5N HD
+http://flexlive.lat:8080/live/ReneAcebedoRA/psrQTpU89VU2/105110.ts
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/810cc28538dad9335756506f03410daa.jpg",CANAL 26 HD
+http://starlatino.tv:8880/live/63207687/FyqrcUgpkGUB/490438.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/810cc28538dad9335756506f03410daa.jpg",CANAL 26 HD
+http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/490438.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es",CIUDAD MAGAZINE
+http://starlatino.tv:8880/live/63207687/FyqrcUgpkGUB/490453.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es",CIUDAD MAGAZINE
+http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/490453.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWWMmcZCQ5tr1Wv90_JiMagFY_0XjSp1Un3g596k6BiQ&s",CRONICA
+http://starlatino.tv:8880/live/63207687/FyqrcUgpkGUB/490452.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/e6d86f0dd1f02038b3dd1311ed5f7639.jpeg",CRONICA TV
+http://starlatino.tv:8880/live/63207687/FyqrcUgpkGUB/490473.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/e6d86f0dd1f02038b3dd1311ed5f7639.jpeg",CRONICA TV
+http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/490473.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",El Nueve  HD
+http://starlatino.tv:8880/live/63207687/FyqrcUgpkGUB/490460.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",EL NUEVE HD
+http://starlatino.tv:8880/live/63207687/FyqrcUgpkGUB/490472.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",El Nueve  HD
+http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/490460.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",El Trece
+http://starlatino.tv:8880/live/63207687/FyqrcUgpkGUB/490442.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",El Trece
+http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/490442.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",EL TRECE OPC. A
+http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/490440.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqtZB_6WG36RuIrX7Npa_XgoeV-KK74HcQ7m9xWQcKI7E=s900-c-k-c0x00ffffff-no-rj",LA NACION
+http://starlatino.tv:8880/live/63207687/FyqrcUgpkGUB/490466.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqtZB_6WG36RuIrX7Npa_XgoeV-KK74HcQ7m9xWQcKI7E=s900-c-k-c0x00ffffff-no-rj",LA NACION
+http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/490466.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",TELEFE
+http://starlatino.tv:8880/live/63207687/FyqrcUgpkGUB/490439.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",Telefe
+http://starlatino.tv:8880/live/63207687/FyqrcUgpkGUB/490458.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",Telefe
+http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/490458.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",TN HD
+http://starlatino.tv:8880/live/63207687/FyqrcUgpkGUB/490457.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",TN HD
+http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/490457.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",TN NOTICIAS
+http://starlatino.tv:8880/live/63207687/FyqrcUgpkGUB/490437.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",TN Noticias
+http://starlatino.tv:8880/live/63207687/FyqrcUgpkGUB/490454.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",TN NOTICIAS
+http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/490437.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",TN Noticias
+http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/490454.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",TRECE OPC. A
+http://starlatino.tv:8880/live/63207687/FyqrcUgpkGUB/490440.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",Volver
+http://starlatino.tv:8880/live/63207687/FyqrcUgpkGUB/490462.m3u8
+#EXTINF:-1 group-title="ARGENTINA tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",Volver
+http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/490462.m3u8
 #########################################(RADIOS CRISTIANAS)########
 #EXTINF:-1 tvg-logo="https://tinyurl.com/Mgrad110"group-title="RADIO CRISTIANA",MONTE GRANDE RADIO
 https://radios.yanapak.org/montegranderadio
