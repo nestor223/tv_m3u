@@ -1,270 +1,244 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="amc.co" tvg-name="" tvg-logo="http://www.1play.cool:25461/live/images/3654b34017508a963ccce2426e91e4cd.png" group-title="CINE & SERIES",
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/164002.m3u8
-#EXTINF:-1 tvg-id="a&e.co" tvg-name="A&E " tvg-logo="http://www.1play.cool:25461/live/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="CINE & SERIES",A&E 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29722.m3u8
-#EXTINF:-1 tvg-id="a&e.co" tvg-name="A&E" tvg-logo="http://www.1play.cool:25461/live/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="CINE & SERIES",A&E
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/45873.m3u8
-#EXTINF:-1 tvg-id="a&e.co" tvg-name="A&E (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="CINE & SERIES",A&E (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29795.m3u8
-#EXTINF:-1 tvg-id="amc.co" tvg-name="AMC " tvg-logo="http://www.1play.cool:25461/live/images/3654b34017508a963ccce2426e91e4cd.png" group-title="CINE & SERIES",AMC 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/45874.m3u8
-#EXTINF:-1 tvg-id="amc.co" tvg-name="AMC" tvg-logo="http://www.1play.cool:25461/live/images/3654b34017508a963ccce2426e91e4cd.png" group-title="CINE & SERIES",AMC
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/41007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC SERIES" tvg-logo="http://www.1play.cool:25461/live/images/c9784d6010ffa5201c8240a19009b7aa.png" group-title="CINE & SERIES",AMC SERIES
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/432920.m3u8
-#EXTINF:-1 tvg-id="axn.co" tvg-name="AXN " tvg-logo="http://www.1play.cool:25461/live/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="CINE & SERIES",AXN 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/62781.m3u8
-#EXTINF:-1 tvg-id="axn.co" tvg-name="AXN" tvg-logo="http://www.1play.cool:25461/live/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="CINE & SERIES",AXN
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/41008.m3u8
-#EXTINF:-1 tvg-id="axn.co" tvg-name="AXN (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="CINE & SERIES",AXN (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29797.m3u8
-#EXTINF:-1 tvg-id="CinemaDinamita.mx" tvg-name="Cine Dinamita " tvg-logo="http://www.1play.cool:25461/live/images/82daa1ccf681ae58504966e35d4d7661.png" group-title="CINE & SERIES",Cine Dinamita 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/174653.m3u8
-#EXTINF:-1 tvg-id="cinecanal.co" tvg-name="Cinecanal " tvg-logo="http://www.1play.cool:25461/live/images/94f711b4753864794b3162831ecb3f0d.png" group-title="CINE & SERIES",Cinecanal 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29800.m3u8
-#EXTINF:-1 tvg-id="cinecanal.co" tvg-name="Cinecanal" tvg-logo="http://www.1play.cool:25461/live/images/94f711b4753864794b3162831ecb3f0d.png" group-title="CINE & SERIES",Cinecanal
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29734.m3u8
-#EXTINF:-1 tvg-id="cinecanal.co" tvg-name="Cinecanal (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/94f711b4753864794b3162831ecb3f0d.png" group-title="CINE & SERIES",Cinecanal (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/62783.m3u8
-#EXTINF:-1 tvg-id="cinelatino.co" tvg-name="Cinelatino (720x406) " tvg-logo="http://www.1play.cool:25461/live/images/eb930880c3e1b2eb73cafa0fac48cc48.png" group-title="CINE & SERIES",Cinelatino (720x406) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/30392.m3u8
-#EXTINF:-1 tvg-id="cinemax.co" tvg-name="Cinemax " tvg-logo="http://www.1play.cool:25461/live/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CINE & SERIES",Cinemax 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29735.m3u8
-#EXTINF:-1 tvg-id="cinemax.co" tvg-name="Cinemax" tvg-logo="http://www.1play.cool:25461/live/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CINE & SERIES",Cinemax
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/41010.m3u8
-#EXTINF:-1 tvg-id="cinemax.co" tvg-name="Cinemax (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CINE & SERIES",Cinemax (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/164009.m3u8
-#EXTINF:-1 tvg-id="depelícula.mx" tvg-name="De Pelicula " tvg-logo="http://www.1play.cool:25461/live/images/349fd1687cfcb13852418e0b57995fa2.png" group-title="CINE & SERIES",De Pelicula 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29737.m3u8
-#EXTINF:-1 tvg-id="depelícula.mx" tvg-name="De Pelicula" tvg-logo="http://www.1play.cool:25461/live/images/349fd1687cfcb13852418e0b57995fa2.png" group-title="CINE & SERIES",De Pelicula
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/277090.m3u8
-#EXTINF:-1 tvg-id="depelícula.mx" tvg-name="De Pelicula (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/349fd1687cfcb13852418e0b57995fa2.png" group-title="CINE & SERIES",De Pelicula (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/277089.m3u8
-#EXTINF:-1 tvg-id="5starmax.us" tvg-name="De Pelicula Clasico (480x360) " tvg-logo="http://www.1play.cool:25461/live/images/9a06aecb01f38a2c419e636b88d4d8cb.png" group-title="CINE & SERIES",De Pelicula Clasico (480x360) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/72163.m3u8
-#EXTINF:-1 tvg-id="Canal.De.Película.(Multiplex).mx" tvg-name="De Pelicula Plus " tvg-logo="http://www.1play.cool:25461/live/images/9a06aecb01f38a2c419e636b88d4d8cb.png" group-title="CINE & SERIES",De Pelicula Plus 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/47442.m3u8
-#EXTINF:-1 tvg-id="dhe.co" tvg-name="DHE " tvg-logo="http://www.1play.cool:25461/live/images/26f61b24028d039f04a9e2207396d735.png" group-title="CINE & SERIES",DHE 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/77159.m3u8
-#EXTINF:-1 tvg-id="dhe.co" tvg-name="DHE" tvg-logo="http://www.1play.cool:25461/live/images/26f61b24028d039f04a9e2207396d735.png" group-title="CINE & SERIES",DHE
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/30253.m3u8
-#EXTINF:-1 tvg-id="dhe.co" tvg-name="DHE (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/26f61b24028d039f04a9e2207396d735.png" group-title="CINE & SERIES",DHE (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/77160.m3u8
-#EXTINF:-1 tvg-id="europaeuropa.mx" tvg-name="Europa Europa " tvg-logo="http://www.1play.cool:25461/live/images/7e814341d90d800bda97d4fe3b6d34da.png" group-title="CINE & SERIES",Europa Europa 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/282821.m3u8
-#EXTINF:-1 tvg-id="europaeuropa.mx" tvg-name="Europa Europa" tvg-logo="http://www.1play.cool:25461/live/images/7e814341d90d800bda97d4fe3b6d34da.png" group-title="CINE & SERIES",Europa Europa
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/32886.m3u8
-#EXTINF:-1 tvg-id="europaeuropa.mx" tvg-name="Europa Europa " tvg-logo="http://www.1play.cool:25461/live/images/7e814341d90d800bda97d4fe3b6d34da.png" group-title="CINE & SERIES",Europa Europa 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/277091.m3u8
-#EXTINF:-1 tvg-id="fx.co" tvg-name="FX " tvg-logo="http://www.1play.cool:25461/live/images/c3f9558d681bac963339b7c69894c4f7.png" group-title="CINE & SERIES",FX 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29763.m3u8
-#EXTINF:-1 tvg-id="fx.co" tvg-name="FX" tvg-logo="http://www.1play.cool:25461/live/images/c3f9558d681bac963339b7c69894c4f7.png" group-title="CINE & SERIES",FX
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/164026.m3u8
-#EXTINF:-1 tvg-id="fx.co" tvg-name="FX (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/c3f9558d681bac963339b7c69894c4f7.png" group-title="CINE & SERIES",FX (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/77007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golden " tvg-logo="http://www.1play.cool:25461/live/images/c773fdef3889bdadbe809f1e8aaeea46.png" group-title="CINE & SERIES",Golden 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/210087.m3u8
-#EXTINF:-1 tvg-id="golden.ar" tvg-name="Golden (640x360) " tvg-logo="http://www.1play.cool:25461/live/images/c773fdef3889bdadbe809f1e8aaeea46.png" group-title="CINE & SERIES",Golden (640x360) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/77163.m3u8
-#EXTINF:-1 tvg-id="golden.ar" tvg-name="Golden (1024x576) " tvg-logo="http://www.1play.cool:25461/live/images/c773fdef3889bdadbe809f1e8aaeea46.png" group-title="CINE & SERIES",Golden (1024x576) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29765.m3u8
-#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="Golden Edge " tvg-logo="http://www.1play.cool:25461/live/images/d0ff88cf64fc4523df72698439c00309.png" group-title="CINE & SERIES",Golden Edge 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29823.m3u8
-#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="Golden Edge" tvg-logo="http://www.1play.cool:25461/live/images/d0ff88cf64fc4523df72698439c00309.png" group-title="CINE & SERIES",Golden Edge
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/210086.m3u8
-#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="Golden Edge (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/d0ff88cf64fc4523df72698439c00309.png" group-title="CINE & SERIES",Golden Edge (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29766.m3u8
-#EXTINF:-1 tvg-id="goldenplus.mx" tvg-name="Golden Plus " tvg-logo="http://www.1play.cool:25461/live/images/3b4dbfea601995d813105956e222de86.png" group-title="CINE & SERIES",Golden Plus 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/77161.m3u8
-#EXTINF:-1 tvg-id="goldenplus.mx" tvg-name="Golden Plus" tvg-logo="http://www.1play.cool:25461/live/images/3b4dbfea601995d813105956e222de86.png" group-title="CINE & SERIES",Golden Plus
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/77162.m3u8
-#EXTINF:-1 tvg-id="goldenplus.mx" tvg-name="Golden Plus (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/3b4dbfea601995d813105956e222de86.png" group-title="CINE & SERIES",Golden Plus (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/277092.m3u8
-#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="Golden Premier " tvg-logo="http://www.1play.cool:25461/live/images/e728e4314384881c9615ac4cb22c5e51.png" group-title="CINE & SERIES",Golden Premier 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/128510.m3u8
-#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="Golden Premier" tvg-logo="http://www.1play.cool:25461/live/images/e728e4314384881c9615ac4cb22c5e51.png" group-title="CINE & SERIES",Golden Premier
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/32914.m3u8
-#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="Golden Premier " tvg-logo="http://www.1play.cool:25461/live/images/e728e4314384881c9615ac4cb22c5e51.png" group-title="CINE & SERIES",Golden Premier 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/30448.m3u8
-#EXTINF:-1 tvg-id="goldenpremier2.mx" tvg-name="Golden Premier 2 " tvg-logo="http://www.1play.cool:25461/live/images/45232bd38868d770ad8de06593bbeaf7.png" group-title="CINE & SERIES",Golden Premier 2 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/282341.m3u8
-#EXTINF:-1 tvg-id="goldenpremier2.mx" tvg-name="Golden Premier 2 (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/45232bd38868d770ad8de06593bbeaf7.png" group-title="CINE & SERIES",Golden Premier 2 (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/282343.m3u8
-#EXTINF:-1 tvg-id="goldenpremier2.mx" tvg-name="Golden Premier 2 (1920x1080)" tvg-logo="http://www.1play.cool:25461/live/images/45232bd38868d770ad8de06593bbeaf7.png" group-title="CINE & SERIES",Golden Premier 2 (1920x1080)
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/282342.m3u8
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO " tvg-logo="http://www.1play.cool:25461/live/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="CINE & SERIES",HBO 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29917.m3u8
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO" tvg-logo="http://www.1play.cool:25461/live/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="CINE & SERIES",HBO
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/41020.m3u8
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO " tvg-logo="http://www.1play.cool:25461/live/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="CINE & SERIES",HBO 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/47462.m3u8
-#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="HBO 2 " tvg-logo="http://www.1play.cool:25461/live/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="CINE & SERIES",HBO 2 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/41021.m3u8
-#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="HBO 2" tvg-logo="http://www.1play.cool:25461/live/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="CINE & SERIES",HBO 2
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29874.m3u8
-#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="HBO 2 (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="CINE & SERIES",HBO 2 (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/62795.m3u8
-#EXTINF:-1 tvg-id="hbofamily.co" tvg-name="HBO Family " tvg-logo="http://www.1play.cool:25461/live/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="CINE & SERIES",HBO Family 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/151406.m3u8
-#EXTINF:-1 tvg-id="hbofamily.co" tvg-name="HBO Family" tvg-logo="http://www.1play.cool:25461/live/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="CINE & SERIES",HBO Family
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/30397.m3u8
-#EXTINF:-1 tvg-id="hbofamily.co" tvg-name="HBO Family (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="CINE & SERIES",HBO Family (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/62797.m3u8
-#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="HBO Mundi " tvg-logo="http://www.1play.cool:25461/live/images/d1634feb364379b13f95c2c0a464a980.png" group-title="CINE & SERIES",HBO Mundi 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/57567.m3u8
-#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="HBO Mundi " tvg-logo="http://www.1play.cool:25461/live/images/d1634feb364379b13f95c2c0a464a980.png" group-title="CINE & SERIES",HBO Mundi 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/31287.m3u8
-#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="HBO Mundi (1980x1080) " tvg-logo="http://www.1play.cool:25461/live/images/d1634feb364379b13f95c2c0a464a980.png" group-title="CINE & SERIES",HBO Mundi (1980x1080) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/47463.m3u8
-#EXTINF:-1 tvg-id="hbopluspanamericano.co" tvg-name="HBO Plus " tvg-logo="http://www.1play.cool:25461/live/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="CINE & SERIES",HBO Plus 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/47223.m3u8
-#EXTINF:-1 tvg-id="hbopluspanamericano.co" tvg-name="HBO Plus" tvg-logo="http://www.1play.cool:25461/live/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="CINE & SERIES",HBO Plus
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/41023.m3u8
-#EXTINF:-1 tvg-id="hbopluspanamericano.co" tvg-name="HBO Plus (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="CINE & SERIES",HBO Plus (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/41024.m3u8
-#EXTINF:-1 tvg-id="hbopop.co" tvg-name="HBO Pop " tvg-logo="http://www.1play.cool:25461/live/images/ad7c604a311bc79f9110eaa409f12719.png" group-title="CINE & SERIES",HBO Pop 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/62798.m3u8
-#EXTINF:-1 tvg-id="hbopop.co" tvg-name="HBO Pop" tvg-logo="http://www.1play.cool:25461/live/images/ad7c604a311bc79f9110eaa409f12719.png" group-title="CINE & SERIES",HBO Pop
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/47467.m3u8
-#EXTINF:-1 tvg-id="hbopop.co" tvg-name="HBO Pop (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/ad7c604a311bc79f9110eaa409f12719.png" group-title="CINE & SERIES",HBO Pop (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/31286.m3u8
-#EXTINF:-1 tvg-id="hbosignature.co" tvg-name="HBO Signature " tvg-logo="http://www.1play.cool:25461/live/images/59c79fdb9059ea5288761dc1878f0298.png" group-title="CINE & SERIES",HBO Signature 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/47468.m3u8
-#EXTINF:-1 tvg-id="hbosignature.co" tvg-name="HBO Signature" tvg-logo="http://www.1play.cool:25461/live/images/59c79fdb9059ea5288761dc1878f0298.png" group-title="CINE & SERIES",HBO Signature
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/30201.m3u8
-#EXTINF:-1 tvg-id="hbosignature.co" tvg-name="HBO Signature " tvg-logo="http://www.1play.cool:25461/live/images/59c79fdb9059ea5288761dc1878f0298.png" group-title="CINE & SERIES",HBO Signature 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/30249.m3u8
-#EXTINF:-1 tvg-id="hboxtreme.co" tvg-name="HBO Xtreme " tvg-logo="http://www.1play.cool:25461/live/images/7faccb9efb81bdfd5749e3a4ce5c6d1c.png" group-title="CINE & SERIES",HBO Xtreme 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/31288.m3u8
-#EXTINF:-1 tvg-id="hboxtreme.co" tvg-name="HBO Xtreme" tvg-logo="http://www.1play.cool:25461/live/images/7faccb9efb81bdfd5749e3a4ce5c6d1c.png" group-title="CINE & SERIES",HBO Xtreme
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/47469.m3u8
-#EXTINF:-1 tvg-id="hboxtreme.co" tvg-name="HBO Xtreme (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/7faccb9efb81bdfd5749e3a4ce5c6d1c.png" group-title="CINE & SERIES",HBO Xtreme (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/47226.m3u8
-#EXTINF:-1 tvg-id="isat.cl" tvg-name="I-Sat (1280x720)" tvg-logo="http://www.1play.cool:25461/live/images/599d89a71fd2107680db91ff858f733b.png" group-title="CINE & SERIES",I-Sat (1280x720)
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Morbido TV" tvg-logo="http://www.1play.cool:25461/live/images/e9aa8c4bfa6eb341b59ed2661719df4e.png" group-title="CINE & SERIES",Morbido TV
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/280730.m3u8
-#EXTINF:-1 tvg-id="multipremier.co" tvg-name="Multipremier (704*406)" tvg-logo="http://www.1play.cool:25461/live/images/19ad8cfebfc73379c8817c162763f874.png" group-title="CINE & SERIES",Multipremier (704*406)
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/277093.m3u8
-#EXTINF:-1 tvg-id="multipremier.co" tvg-name="Multipremier (1920x1080)" tvg-logo="http://www.1play.cool:25461/live/images/19ad8cfebfc73379c8817c162763f874.png" group-title="CINE & SERIES",Multipremier (1920x1080)
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/30495.m3u8
-#EXTINF:-1 tvg-id="a&e.co" tvg-name="Paramount Plus" tvg-logo="http://www.1play.cool:25461/live/images/8519e427b1834267e37e23b6d7b5e012.png" group-title="CINE & SERIES",Paramount Plus
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29775.m3u8
-#EXTINF:-1 tvg-id="sony.co" tvg-name="Sony Channel " tvg-logo="http://www.1play.cool:25461/live/images/33561003f44d374c719506bef4faeba4.png" group-title="CINE & SERIES",Sony Channel 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/47230.m3u8
-#EXTINF:-1 tvg-id="sony.co" tvg-name="Sony Channel" tvg-logo="http://www.1play.cool:25461/live/images/33561003f44d374c719506bef4faeba4.png" group-title="CINE & SERIES",Sony Channel
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29776.m3u8
-#EXTINF:-1 tvg-id="sony.co" tvg-name="Sony Channel (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/33561003f44d374c719506bef4faeba4.png" group-title="CINE & SERIES",Sony Channel (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29830.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Movies " tvg-logo="http://www.1play.cool:25461/live/images/636b368ad1668cc9d05ce380c8b27fc0.png" group-title="CINE & SERIES",Sony Movies 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/283009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Movies (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/636b368ad1668cc9d05ce380c8b27fc0.png" group-title="CINE & SERIES",Sony Movies (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/283010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Movies(1920x1080) " tvg-logo="http://www.1play.cool:25461/live/images/636b368ad1668cc9d05ce380c8b27fc0.png" group-title="CINE & SERIES",Sony Movies(1920x1080) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/283008.m3u8
-#EXTINF:-1 tvg-id="space.co" tvg-name="Space " tvg-logo="http://www.1play.cool:25461/live/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="CINE & SERIES",Space 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/62801.m3u8
-#EXTINF:-1 tvg-id="space.co" tvg-name="Space" tvg-logo="http://www.1play.cool:25461/live/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="CINE & SERIES",Space
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29777.m3u8
-#EXTINF:-1 tvg-id="space.co" tvg-name="Space (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="CINE & SERIES",Space (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29831.m3u8
-#EXTINF:-1 tvg-id="starchannel.mx" tvg-name="Star Channel " tvg-logo="http://www.1play.cool:25461/live/images/cc2998d18e00a85ee236f747c3bb340a.png" group-title="CINE & SERIES",Star Channel 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/41013.m3u8
-#EXTINF:-1 tvg-id="starchannel.mx" tvg-name="Star Channel" tvg-logo="http://www.1play.cool:25461/live/images/cc2998d18e00a85ee236f747c3bb340a.png" group-title="CINE & SERIES",Star Channel
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29753.m3u8
-#EXTINF:-1 tvg-id="starchannel.mx" tvg-name="Star Channel " tvg-logo="http://www.1play.cool:25461/live/images/cc2998d18e00a85ee236f747c3bb340a.png" group-title="CINE & SERIES",Star Channel 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29814.m3u8
-#EXTINF:-1 tvg-id="studiouniversal.co" tvg-name="Studio Universal " tvg-logo="http://www.1play.cool:25461/live/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="CINE & SERIES",Studio Universal 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29832.m3u8
-#EXTINF:-1 tvg-id="studiouniversal.co" tvg-name="Studio Universal" tvg-logo="http://213.145.87.11/Logos/Cin3/studiouniversal.png" group-title="CINE & SERIES",Studio Universal
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29778.m3u8
-#EXTINF:-1 tvg-id="studiouniversal.co" tvg-name="Studio Universal (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="CINE & SERIES",Studio Universal (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/164055.m3u8
-#EXTINF:-1 tvg-id="tcm.ar" tvg-name="TCM (720x406)" tvg-logo="http://www.1play.cool:25461/live/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="CINE & SERIES",TCM (720x406)
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29780.m3u8
-#EXTINF:-1 tvg-id="tnt.co" tvg-name="TNT " tvg-logo="http://www.1play.cool:25461/live/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="CINE & SERIES",TNT 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/47471.m3u8
-#EXTINF:-1 tvg-id="tnt.co" tvg-name="TNT" tvg-logo="http://www.1play.cool:25461/live/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="CINE & SERIES",TNT
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29781.m3u8
-#EXTINF:-1 tvg-id="tnt.co" tvg-name="TNT (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="CINE & SERIES",TNT (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29834.m3u8
-#EXTINF:-1 tvg-id="a&e.mx" tvg-name="TNT Novelas " tvg-logo="http://www.1play.cool:25461/live/images/1bb566426866770ad0c1a36859a71700.png" group-title="CINE & SERIES",TNT Novelas 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/77177.m3u8
-#EXTINF:-1 tvg-id="a&e.mx" tvg-name="TNT Novelas" tvg-logo="http://www.1play.cool:25461/live/images/1bb566426866770ad0c1a36859a71700.png" group-title="CINE & SERIES",TNT Novelas
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/77176.m3u8
-#EXTINF:-1 tvg-id="a&e.mx" tvg-name="TNT Novelas (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/1bb566426866770ad0c1a36859a71700.png" group-title="CINE & SERIES",TNT Novelas (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/32925.m3u8
-#EXTINF:-1 tvg-id="tntseries.co" tvg-name="TNT Series " tvg-logo="http://www.1play.cool:25461/live/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="CINE & SERIES",TNT Series 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/47241.m3u8
-#EXTINF:-1 tvg-id="tntseries.co" tvg-name="TNT Series" tvg-logo="http://www.1play.cool:25461/live/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="CINE & SERIES",TNT Series
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29782.m3u8
-#EXTINF:-1 tvg-id="tntseries.co" tvg-name="TNT Series (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="CINE & SERIES",TNT Series (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/164063.m3u8
-#EXTINF:-1 tvg-id="ultracine.us" tvg-name="Ultra Cine ᵘˢ" tvg-logo="http://www.1play.cool:25461/live/images/d8aa2ae2f35638c467de52cca519ae78.png" group-title="CINE & SERIES",Ultra Cine ᵘˢ
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/79183.m3u8
-#EXTINF:-1 tvg-id="ultraclasico.us" tvg-name="Ultra Clasico ᵘˢ" tvg-logo="http://www.1play.cool:25461/live/images/23bf5b7859b6b143073fa8eafde209f7.png" group-title="CINE & SERIES",Ultra Clasico ᵘˢ
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/79184.m3u8
-#EXTINF:-1 tvg-id="ultradocu.us" tvg-name="Ultra Docu ᵘˢ" tvg-logo="http://www.1play.cool:25461/live/images/73933ef7abf86bdc9a857a83fe7b0869.png" group-title="CINE & SERIES",Ultra Docu ᵘˢ
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/79185.m3u8
-#EXTINF:-1 tvg-id="ultrafamilia.us" tvg-name="Ultra Familia ᵘˢ" tvg-logo="http://www.1play.cool:25461/live/images/58655214dcc421a99ac51fbdf98e38cb.png" group-title="CINE & SERIES",Ultra Familia ᵘˢ
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/79186.m3u8
-#EXTINF:-1 tvg-id="ultrafiesta.us" tvg-name="Ultra Fiesta ᵘˢ" tvg-logo="http://www.1play.cool:25461/live/images/0dfecbf5408e858d4f8a5a69cd4017bf.png" group-title="CINE & SERIES",Ultra Fiesta ᵘˢ
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/79187.m3u8
-#EXTINF:-1 tvg-id="ultrakidz.us" tvg-name="Ultra Kidz ᵘˢ" tvg-logo="http://www.1play.cool:25461/live/images/98129968009eaaf866865831451204fe.png" group-title="CINE & SERIES",Ultra Kidz ᵘˢ
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/79188.m3u8
-#EXTINF:-1 tvg-id="ultramacho.us" tvg-name="Ultra Macho ᵘˢ" tvg-logo="http://www.1play.cool:25461/live/images/16c9527278fcac9326085a9c94e313d6.png" group-title="CINE & SERIES",Ultra Macho ᵘˢ
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/79189.m3u8
-#EXTINF:-1 tvg-id="ultramex.us" tvg-name="Ultra Mex ᵘˢ" tvg-logo="http://www.1play.cool:25461/live/images/05e6db6d4b3bdb17a9763431e2011314.png" group-title="CINE & SERIES",Ultra Mex ᵘˢ
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/79190.m3u8
-#EXTINF:-1 tvg-id="universalcinema.mx" tvg-name="Universal Cinema " tvg-logo="http://www.1play.cool:25461/live/images/62b14345a63e740ab0c1299e32125d7f.png" group-title="CINE & SERIES",Universal Cinema 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/73998.m3u8
-#EXTINF:-1 tvg-id="universalcinema.mx" tvg-name="Universal Cinema" tvg-logo="http://www.1play.cool:25461/live/images/62b14345a63e740ab0c1299e32125d7f.png" group-title="CINE & SERIES",Universal Cinema
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/73994.m3u8
-#EXTINF:-1 tvg-id="universalcinema.mx" tvg-name="Universal Cinema " tvg-logo="http://www.1play.cool:25461/live/images/62b14345a63e740ab0c1299e32125d7f.png" group-title="CINE & SERIES",Universal Cinema 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/128511.m3u8
-#EXTINF:-1 tvg-id="universalcomedy.mx" tvg-name="Universal Comedy " tvg-logo="http://www.1play.cool:25461/live/images/279a4949a3a5886bb681a3c85403cde4.png" group-title="CINE & SERIES",Universal Comedy 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/128512.m3u8
-#EXTINF:-1 tvg-id="universalcomedy.mx" tvg-name="Universal Comedy" tvg-logo="http://www.1play.cool:25461/live/images/279a4949a3a5886bb681a3c85403cde4.png" group-title="CINE & SERIES",Universal Comedy
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/76353.m3u8
-#EXTINF:-1 tvg-id="universalcomedy.mx" tvg-name="Universal Comedy " tvg-logo="http://www.1play.cool:25461/live/images/279a4949a3a5886bb681a3c85403cde4.png" group-title="CINE & SERIES",Universal Comedy 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/128513.m3u8
-#EXTINF:-1 tvg-id="universalcrime.mx" tvg-name="Universal Crime " tvg-logo="http://www.1play.cool:25461/live/images/643ce8f374cf4d42edd5f973e116be8a.png" group-title="CINE & SERIES",Universal Crime 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/74000.m3u8
-#EXTINF:-1 tvg-id="universalcrime.mx" tvg-name="Universal Crime" tvg-logo="http://www.1play.cool:25461/live/images/643ce8f374cf4d42edd5f973e116be8a.png" group-title="CINE & SERIES",Universal Crime
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/164068.m3u8
-#EXTINF:-1 tvg-id="universalcrime.mx" tvg-name="Universal Crime " tvg-logo="http://www.1play.cool:25461/live/images/643ce8f374cf4d42edd5f973e116be8a.png" group-title="CINE & SERIES",Universal Crime 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/73997.m3u8
-#EXTINF:-1 tvg-id="universalpremiere.mx" tvg-name="Universal Premiere " tvg-logo="http://www.1play.cool:25461/live/images/590598975caf4fc0db40d0907c185317.png" group-title="CINE & SERIES",Universal Premiere 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/73999.m3u8
-#EXTINF:-1 tvg-id="universalpremiere.mx" tvg-name="Universal Premiere" tvg-logo="http://www.1play.cool:25461/live/images/590598975caf4fc0db40d0907c185317.png" group-title="CINE & SERIES",Universal Premiere
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/73996.m3u8
-#EXTINF:-1 tvg-id="universalpremiere.mx" tvg-name="Universal Premiere " tvg-logo="http://www.1play.cool:25461/live/images/590598975caf4fc0db40d0907c185317.png" group-title="CINE & SERIES",Universal Premiere 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/128514.m3u8
-#EXTINF:-1 tvg-id="universalreality.mx" tvg-name="Universal Reality " tvg-logo="http://www.1play.cool:25461/live/images/9f1f02800ce0dc29cf5866697313b7e9.png" group-title="CINE & SERIES",Universal Reality 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/41015.m3u8
-#EXTINF:-1 tvg-id="universalreality.mx" tvg-name="Universal Reality" tvg-logo="http://www.1play.cool:25461/live/images/9f1f02800ce0dc29cf5866697313b7e9.png" group-title="CINE & SERIES",Universal Reality
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/73995.m3u8
-#EXTINF:-1 tvg-id="universalreality.mx" tvg-name="Universal Reality " tvg-logo="http://www.1play.cool:25461/live/images/9f1f02800ce0dc29cf5866697313b7e9.png" group-title="CINE & SERIES",Universal Reality 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/30395.m3u8
-#EXTINF:-1 tvg-id="universaltv.co" tvg-name="Universal TV " tvg-logo="http://www.1play.cool:25461/live/images/5c8d2af36dbec982c74da70a4378e8c4.png" group-title="CINE & SERIES",Universal TV 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/41026.m3u8
-#EXTINF:-1 tvg-id="universaltv.co" tvg-name="Universal TV" tvg-logo="http://www.1play.cool:25461/live/images/5c8d2af36dbec982c74da70a4378e8c4.png" group-title="CINE & SERIES",Universal TV
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/62802.m3u8
-#EXTINF:-1 tvg-id="universaltv.co" tvg-name="Universal TV (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/5c8d2af36dbec982c74da70a4378e8c4.png" group-title="CINE & SERIES",Universal TV (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/77180.m3u8
-#EXTINF:-1 tvg-id="syfy.mx" tvg-name="USA Network " tvg-logo="http://www.1play.cool:25461/live/images/4dd87b4b429a4aee52760d2683c64330.png" group-title="CINE & SERIES",USA Network 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29779.m3u8
-#EXTINF:-1 tvg-id="syfy.mx" tvg-name="USA Network" tvg-logo="http://www.1play.cool:25461/live/images/4dd87b4b429a4aee52760d2683c64330.png" group-title="CINE & SERIES",USA Network
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/76351.m3u8
-#EXTINF:-1 tvg-id="syfy.mx" tvg-name="USA Network " tvg-logo="http://www.1play.cool:25461/live/images/4dd87b4b429a4aee52760d2683c64330.png" group-title="CINE & SERIES",USA Network 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29833.m3u8
-#EXTINF:-1 tvg-id="warnerchannel.co" tvg-name="Warner Channel " tvg-logo="http://www.1play.cool:25461/live/images/1660885848050e9ca9746ddd54e2de25.png" group-title="CINE & SERIES",Warner Channel 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29785.m3u8
-#EXTINF:-1 tvg-id="warnerchannel.co" tvg-name="Warner Channel" tvg-logo="http://www.1play.cool:25461/live/images/1660885848050e9ca9746ddd54e2de25.png" group-title="CINE & SERIES",Warner Channel
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/65761.m3u8
-#EXTINF:-1 tvg-id="warnerchannel.co" tvg-name="Warner Channel (832x468) " tvg-logo="http://www.1play.cool:25461/live/images/1660885848050e9ca9746ddd54e2de25.png" group-title="CINE & SERIES",Warner Channel (832x468) 
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/29837.m3u8
+#EXTINF:-1 tvg-id="AEANDHC" tvg-name="A&E OP1" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="✮CINE PREMIUM✮",A&E OP1
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46085.m3u8
+#EXTINF:-1 tvg-id="AandE HD" tvg-name="A&E OP2 | AR" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="✮CINE PREMIUM✮",A&E OP2
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46086.m3u8
+#EXTINF:-1 tvg-id="AandE.co" tvg-name="A&E OP3" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="✮CINE PREMIUM✮",A&E OP3
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46087.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC | AR FHD" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="✮CINE PREMIUM✮",AMC
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46089.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC HD (DTV)" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="✮CINE PREMIUM✮",AMC HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46090.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC HD MX (DTV)" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="✮CINE PREMIUM✮",AMC HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46092.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="✮CINE PREMIUM✮",AXN FHD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46093.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD MX (DTV)" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="✮CINE PREMIUM✮",AXN
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46094.m3u8
+#EXTINF:-1 tvg-id="AXNANHD" tvg-name="AXN HD (DTV)" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="✮CINE PREMIUM✮",AXN HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46095.m3u8
+#EXTINF:-1 tvg-id="Atrescine.es" tvg-name="A3SERIES" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="✮CINE PREMIUM✮",A3SERIES
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATRESERIES HD (DTV)" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="✮CINE PREMIUM✮",ATRESERIES HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46098.m3u8
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="ATRESERIES HD (P)" tvg-logo="https://i.ibb.co/qYs2x7w/Atreseries.png" group-title="✮CINE PREMIUM✮",ATRESERIES
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46100.m3u8
+#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="CINEMA HD" tvg-logo="https://i.ibb.co/L0KQK4J/ciensa.png" group-title="✮CINE PREMIUM✮",CINEMA HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46101.m3u8
+#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="CINEMA" tvg-logo="https://i.ibb.co/L0KQK4J/ciensa.png" group-title="✮CINE PREMIUM✮",CINEMA
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46102.m3u8
+#EXTINF:-1 tvg-id="CINE LATINO" tvg-name="CINE LATINO HD (DTV)" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="✮CINE PREMIUM✮",CINE LATINO HDhttps://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46103.m3u8
+#EXTINF:-1 tvg-id="CINE LATINO" tvg-name="CINE LATINO" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="✮CINE PREMIUM✮",CINE LATINO
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46104.m3u8
+#EXTINF:-1 tvg-id="CINE LATINO" tvg-name="CINE LATINO FHD" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="✮CINE PREMIUM✮",CINE LATINO
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46106.m3u8
+#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="CINECANAL ARG (DTV)" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="✮CINE PREMIUM✮",CINECANAL HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46107.m3u8
+#EXTINF:-1 tvg-id="CINECANAL HD.co" tvg-name="CINECANAL | AR HD" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="✮CINE PREMIUM✮",CINECANAL
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46108.m3u8
+#EXTINF:-1 tvg-id="CINECANAL" tvg-name="CineCanal HD CH (DTV)" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="✮CINE PREMIUM✮",CINECANAL FHD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46109.m3u8
+#EXTINF:-1 tvg-id="CINECANAL HD.co" tvg-name="CineCanal HD MX (DTV)" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="✮CINE PREMIUM✮",CINECANAL SD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46110.m3u8
+#EXTINF:-1 tvg-id="CINEMAX HD.co" tvg-name="CINEMAX OP1" tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="✮CINE PREMIUM✮",CINEMAX OP1
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46111.m3u8
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINEMAX OP2" tvg-logo="https://i.ibb.co/zSbPFXZ/cienmax2.png" group-title="✮CINE PREMIUM✮",CINEMAX OP2
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46112.m3u8
+#EXTINF:-1 tvg-id="Cinemax.co" tvg-name="CINEMAX OP3" tvg-logo="https://i.ibb.co/G3DXZ9d/cienmax3.png" group-title="✮CINE PREMIUM✮",CINEMAX OP3
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46114.m3u8
+#EXTINF:-1 tvg-id="DEPELPL" tvg-name="DE PELICULA PLUS HD" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="✮CINE PREMIUM✮",DE PELICULA PLUS HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46118.m3u8
+#EXTINF:-1 tvg-id="DEPELPL" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="✮CINE PREMIUM✮",DE PELICULA PLUS
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46119.m3u8
+#EXTINF:-1 tvg-id="DE PELICULA" tvg-name="DE PELICULA HD" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="✮CINE PREMIUM✮",DE PELICULA HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46120.m3u8
+#EXTINF:-1 tvg-id="DEPELC" tvg-name="DE PELICULA CLASICO" tvg-logo="https://i.ibb.co/RQnQqNg/depelicula.png" group-title="✮CINE PREMIUM✮",DE PELICULA CLASICO
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46121.m3u8
+#EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE FHD" tvg-logo="https://i.ibb.co/MBvTm7y/dhe.png" group-title="✮CINE PREMIUM✮",DHE FHD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46122.m3u8
+#EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE" tvg-logo="https://i.ibb.co/m9TtGfd/dhe2.png" group-title="✮CINE PREMIUM✮",DHE
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46123.m3u8
+#EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE HD" tvg-logo="https://i.ibb.co/MBvTm7y/dhe.png" group-title="✮CINE PREMIUM✮",DHE HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46124.m3u8
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="EUROPA EUROPA" tvg-logo="https://i.ibb.co/SKbQ4mG/euroapa.png" group-title="✮CINE PREMIUM✮",EUROPA EUROPA
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46125.m3u8
+#EXTINF:-1 tvg-id="EUROPA EUROPA.co" tvg-name="EUROPA EUROPA HD (DTV)" tvg-logo="https://i.ibb.co/Nt50S6w/europa-euor.png" group-title="✮CINE PREMIUM✮",EUROPA EUROPA HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX HD (DTV)" tvg-logo="https://i.ibb.co/z2PqF2T/FX1.png" group-title="✮CINE PREMIUM✮",FX HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46130.m3u8
+#EXTINF:-1 tvg-id="FX HD.co" tvg-name="FX | AR HD" tvg-logo="https://i.ibb.co/hDvN9HZ/FX2.png" group-title="✮CINE PREMIUM✮",FX 
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46132.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD MX (DTV)" tvg-logo="https://i.ibb.co/grpxgB4/FX3.png" group-title="✮CINE PREMIUM✮",FX HD MX
+#EXTINF:-1 tvg-id="GOLDEN HD.co" tvg-name="GOLDEN PLUS | AR" tvg-logo="https://i.ibb.co/wQBkWCT/GOLDENPLUS.png" group-title="✮CINE PREMIUM✮",GOLDEN PLUS
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46138.m3u8
+#EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-name="GOLDEN EDGE | AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg/revision/latest?cb=20120110075418" group-title="✮CINE PREMIUM✮",GOLDEN EDGE
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46139.m3u8
+#EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="✮CINE PREMIUM✮",GOLDEN PREMIER
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46140.m3u8
+#EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-name="GOLDEN PREMIER HD" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="✮CINE PREMIUM✮",GOLDEN PREMIER HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46141.m3u8
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="GOLDEN | AR" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="✮CINE PREMIUM✮",GOLDEN
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46142.m3u8
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="GOLDEN HD" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="✮CINE PREMIUM✮",GOLDEN HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46143.m3u8
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO HD" tvg-logo="https://i.ibb.co/58VvdgP/hbo1.png" group-title="✮CINE PREMIUM✮",HBO HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.ibb.co/NSG7tNS/hbo3.png" group-title="✮CINE PREMIUM✮",HBO
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD (DTV)" tvg-logo="https://i.ibb.co/Syv8Wd6/HBO.png" group-title="✮CINE PREMIUM✮",HBO HD (DTV)
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46146.m3u8
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO | MX" tvg-logo="https://i.ibb.co/3Y1tZwW/HBO33.png" group-title="✮CINE PREMIUM✮",HBO | MX
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD | MX" tvg-logo="https://i.ibb.co/K0x3Lm1/hbo22.png" group-title="✮CINE PREMIUM✮",HBO 2 HD | MX
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD (DTV)" tvg-logo="https://i.ibb.co/KV2tjc7/hbo2.png" group-title="✮CINE PREMIUM✮",HBO 2 HD (DTV)
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46149.m3u8
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/KV2tjc7/hbo2.png" group-title="✮CINE PREMIUM✮",HBO 2 HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46150.m3u8
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/K0x3Lm1/hbo22.png" group-title="✮CINE PREMIUM✮",HBO 2 HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46151.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/xLxZy4s/hbfa3.png" group-title="✮CINE PREMIUM✮",HBO FAMILY
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46152.m3u8
+#EXTINF:-1 tvg-id="HBO Family.co" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/xLxZy4s/hbfa3.png" group-title="✮CINE PREMIUM✮",HBO FAMILY
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46153.m3u8
+#EXTINF:-1 tvg-id="2M Maroc" tvg-name="HBO FAMILY HD (DTV)" tvg-logo="https://i.ibb.co/LRWCv9G/hbofam1.png" group-title="✮CINE PREMIUM✮",HBO FAMILY HD (DTV)
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46154.m3u8
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="HBO PLUS  HD (DTV)" tvg-logo="https://i.ibb.co/HVFhb7C/hbo-3.png" group-title="✮CINE PREMIUM✮",HBO PLUS  HD (DTV)
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46156.m3u8
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS | MX" tvg-logo="https://i.ibb.co/WHn2z6Z/hbp-a1.png" group-title="✮CINE PREMIUM✮",HBO PLUS | MX
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD (DTV)" tvg-logo="https://i.ibb.co/HVFhb7C/hbo-3.png" group-title="✮CINE PREMIUM✮",HBO PLUS HD (DTV)
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46158.m3u8
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS HD" tvg-logo="https://i.ibb.co/WHn2z6Z/hbp-a1.png" group-title="✮CINE PREMIUM✮",HBO PLUS HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD (DTV)" tvg-logo="https://i.ibb.co/BwRLTk1/hbosig1.png" group-title="✮CINE PREMIUM✮",HBO SIGNATURE HD (DTV)
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46162.m3u8
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.ibb.co/BfvZWCJ/hb0sig3.png" group-title="✮CINE PREMIUM✮",HBO SIGNATURE HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46163.m3u8
+#EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MULTIPREMIER HD" tvg-logo="https://i.ibb.co/qWxHGjC/MULTIPRE2.png" group-title="✮CINE PREMIUM✮",MULTIPREMIER HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46168.m3u8
+#EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MULTIPREMIER" tvg-logo="https://i.ibb.co/R45HbrJ/MULPREM1.png" group-title="✮CINE PREMIUM✮",MULTIPREMIER
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46169.m3u8
+#EXTINF:-1 tvg-id="Paramount Channel.co" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://i.ibb.co/wr5LRY4/PARAMOUNT.png" group-title="✮CINE PREMIUM✮",PARAMOUNT CHANNEL FHD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46170.m3u8
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://i.ibb.co/tDgxkRL/PARAMU2.png" group-title="✮CINE PREMIUM✮",PARAMOUNT CHANNEL
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46171.m3u8
+#EXTINF:-1 tvg-id="1+1 Internacional" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://i.ibb.co/wr5LRY4/PARAMOUNT.png" group-title="✮CINE PREMIUM✮",PARAMOUNT CHANNEL HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46172.m3u8
+#EXTINF:-1 tvg-id="SONY MOVIES" tvg-name="SONY MOVIES HD | AR" tvg-logo="https://i.ibb.co/rFMxhPH/SONY2.png" group-title="✮CINE PREMIUM✮",SONY MOVIES HD | AR
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46175.m3u8
+#EXTINF:-1 tvg-id="SONYCH" tvg-name="SONY CHANNEL HD | AR" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="✮CINE PREMIUM✮",SONY CHANNEL HD | AR
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46176.m3u8
+#EXTINF:-1 tvg-id="SONY HD" tvg-name="SONY CHANNEL | MX" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="✮CINE PREMIUM✮",SONY CHANNEL | MX
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46177.m3u8
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE HD | MX" tvg-logo="https://i.ibb.co/K0JqT9S/space2.png" group-title="✮CINE PREMIUM✮",SPACE HD | MX
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46178.m3u8
+#EXTINF:-1 tvg-id="Space.co" tvg-name="Space ᴴᴰ | MX" tvg-logo="https://i.ibb.co/qjqScj2/space1.png" group-title="✮CINE PREMIUM✮",Space ᴴᴰ | MX
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46179.m3u8
+#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-name="Space FHD" tvg-logo="https://i.ibb.co/K0JqT9S/space2.png" group-title="✮CINE PREMIUM✮",Space FHD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46180.m3u8
+#EXTINF:-1 tvg-id="STAR CHANNEL HD.co" tvg-name="STAR CHANNEL HD (DTV)" tvg-logo="https://i.ibb.co/fSbvx7T/STAR22.png" group-title="✮CINE PREMIUM✮",STAR CHANNEL HD (DTV)
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD | ARG" tvg-logo="https://i.ibb.co/vHVVM6K/STARCHA1.png" group-title="✮CINE PREMIUM✮",STAR CHANNEL HD | ARG
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD MX (DTV)" tvg-logo="https://i.ibb.co/vHVVM6K/STARCHA1.png" group-title="✮CINE PREMIUM✮",STAR CHANNEL HD MX (DTV)
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46189.m3u8
+#EXTINF:-1 tvg-id="StarClassics.us" tvg-name="STAR CHANNEL HD" tvg-logo="https://i.ibb.co/ZmBxYZz/STARCL.png" group-title="✮CINE PREMIUM✮",STAR CHANNEL HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46195.m3u8
+#EXTINF:-1 tvg-id="Studio Universal.co" tvg-name="STUDIO UNIVERSAL HD | MX" tvg-logo="https://i.ibb.co/kmQCLLM/STUDI2.png" group-title="✮CINE PREMIUM✮",STUDIO UNIVERSAL HD | MX
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46217.m3u8
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL HD | AR" tvg-logo="https://i.ibb.co/jL5S1mw/STUDIO.png" group-title="✮CINE PREMIUM✮",STUDIO UNIVERSAL HD | AR
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46218.m3u8
+#EXTINF:-1 tvg-id="StudioUniversalSouth.us" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/jL5S1mw/STUDIO.png" group-title="✮CINE PREMIUM✮",STUDIO UNIVERSAL
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46219.m3u8
+#EXTINF:-1 tvg-id="Studio Universal.co" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/4Nh3KcF/STUD1.png" group-title="✮CINE PREMIUM✮",STUDIO UNIVERSAL
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA HD | AR" tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9971D1071C-seeklogo.com.png" group-title="✮CINE PREMIUM✮",USA HD | AR
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46222.m3u8
+#EXTINF:-1 tvg-id="SYFY" tvg-name="USA FHD" tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9971D1071C-seeklogo.com.png" group-title="✮CINE PREMIUM✮",USA FHD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46223.m3u8
+#EXTINF:-1 tvg-id="USA Network HDTV (East)" tvg-name="USA" tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9971D1071C-seeklogo.com.png" group-title="✮CINE PREMIUM✮",USA
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS FHD | MX" tvg-logo="https://i.postimg.cc/43pfGW7C/Fo4or-BXs-AAs-JIL.png" group-title="✮CINE PREMIUM✮",TNT NOVELAS FHD | MX
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46226.m3u8
+#EXTINF:-1 tvg-id="864mvstr.co" tvg-name="TNT NOVELAS HD (DTV)" tvg-logo="https://i.postimg.cc/43pfGW7C/Fo4or-BXs-AAs-JIL.png" group-title="✮CINE PREMIUM✮",TNT NOVELAS HD (DTV)
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46227.m3u8
+#EXTINF:-1 tvg-id="TNT Novelas.co" tvg-name="TNT NOVELAS HD" tvg-logo="https://i.postimg.cc/43pfGW7C/Fo4or-BXs-AAs-JIL.png" group-title="✮CINE PREMIUM✮",TNT NOVELAS HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46228.m3u8
+#EXTINF:-1 tvg-id="TCMSouth.us" tvg-name="TCM" tvg-logo="https://i.ibb.co/340KS9Y/tcm2.png" group-title="✮CINE PREMIUM✮",TCM
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46230.m3u8
+#EXTINF:-1 tvg-id="TCMSouth.us" tvg-name="TCM HD" tvg-logo="https://i.ibb.co/myRdt2X/TCM.png" group-title="✮CINE PREMIUM✮",TCM HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46231.m3u8
+#EXTINF:-1 tvg-id="TCMSouth.us" tvg-name="TCM FHD | MX" tvg-logo="https://i.ibb.co/340KS9Y/tcm2.png" group-title="✮CINE PREMIUM✮",TCM FHD | MX
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46232.m3u8
+#EXTINF:-1 tvg-id="502dtv.co" tvg-name="TNT HD | AR" tvg-logo="https://i.ibb.co/DwLT1NH/TNT2.png" group-title="✮CINE PREMIUM✮",TNT HD | AR
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46236.m3u8
+#EXTINF:-1 tvg-id="TNT HD.co" tvg-name="TNT FHD" tvg-logo="https://i.ibb.co/Fhsz28h/TNT1.png" group-title="✮CINE PREMIUM✮",TNT FHD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46237.m3u8
+#EXTINF:-1 tvg-id="TNTSouth.us" tvg-name="TNT FHD" tvg-logo="https://i.ibb.co/Fhsz28h/TNT1.png" group-title="✮CINE PREMIUM✮",TNT FHD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46238.m3u8
+#EXTINF:-1 tvg-id="TNTSouth.us" tvg-name="TNT HD" tvg-logo="https://i.ibb.co/DwLT1NH/TNT2.png" group-title="✮CINE PREMIUM✮",TNT HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD (DTV)" tvg-logo="https://i.ibb.co/0q8QzgN/tntseries.png" group-title="✮CINE PREMIUM✮",TNT SERIES HD (DTV)
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46240.m3u8
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES HD" tvg-logo="https://i.ibb.co/gzS5WjX/tntser2.png" group-title="✮CINE PREMIUM✮",TNT SERIES HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46241.m3u8
+#EXTINF:-1 tvg-id="TNT Series.co" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/0q8QzgN/tntseries.png" group-title="✮CINE PREMIUM✮",TNT SERIES
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46242.m3u8
+#EXTINF:-1 tvg-id="TNTSeriesSouth.us" tvg-name="TNT SERIES HD | MX" tvg-logo="https://i.ibb.co/gzS5WjX/tntser2.png" group-title="✮CINE PREMIUM✮",TNT SERIES HD | MX
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46243.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL HD (DTV)" tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="✮CINE PREMIUM✮",UNIVERSAL HD (DTV)
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL  ᴴᴰ |MX" tvg-logo="https://i.ibb.co/Mpx2y51/UNIVERSAL1.png" group-title="✮CINE PREMIUM✮",UNIVERSAL  ᴴᴰ |MX
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46245.m3u8
+#EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-name="UNIVERSAL HD | AR" tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="✮CINE PREMIUM✮",UNIVERSAL HD | AR
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46246.m3u8
+#EXTINF:-1 tvg-id="Universal TV.co" tvg-name="UNIVERSAL HD" tvg-logo="https://i.ibb.co/Mpx2y51/UNIVERSAL1.png" group-title="✮CINE PREMIUM✮",UNIVERSAL HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV HD MX" tvg-logo="https://i.ibb.co/TRgfNRw/WARNERTV2.png" group-title="✮CINE PREMIUM✮",WARNER TV HD MX
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46248.m3u8
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="WARNER TV HD AR (DTV)" tvg-logo="https://i.ibb.co/jHC94Xm/WARTNER3.png" group-title="✮CINE PREMIUM✮",WARNER TV HD AR (DTV)
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46249.m3u8
+#EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER HD | MX" tvg-logo="https://i.ibb.co/jHC94Xm/WARTNER3.png" group-title="✮CINE PREMIUM✮",WARNER HD | MX
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46250.m3u8
+#EXTINF:-1 tvg-id="WARNER CHANNEL HD.co" tvg-name="WARNER FHD" tvg-logo="https://i.ibb.co/q5TYp7p/WARNER1.png" group-title="✮CINE PREMIUM✮",WARNER FHD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/46251.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://i.ibb.co/dcZ8bsY/UNIVESALREA.png" group-title="✮CINE PREMIUM✮",UNIVERSAL REALITY
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/90077.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://i.ibb.co/NrFxsBV/UNIVERSALCIEN.png" group-title="✮CINE PREMIUM✮",UNIVERSAL CINEMA
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/90078.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-name="UNIVERSAL CRIME |MX" tvg-logo="https://i.ibb.co/Rj4HpMq/UNIVESALCRIME.png" group-title="✮CINE PREMIUM✮",UNIVERSAL CRIME |MX
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/90079.m3u8
+#EXTINF:-1 tvg-id="UniversalComedy.ar" tvg-name="UNIVERSAL COMEDY HD | MX" tvg-logo="https://i.ibb.co/TBLRttd/UNIVESALCOMEDY.png" group-title="✮CINE PREMIUM✮",UNIVERSAL COMEDY HD | MX
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/90081.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="✮CINE PREMIUM✮",UNIVERSAL PREMIERE HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/90082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE HD | MX" tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="✮CINE PREMIUM✮",UNIVERSAL PREMIERE HD | MX
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/90083.m3u8
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO POP FHD" tvg-logo="https://i.ibb.co/vxK0tVp/hbopop3.png" group-title="✮CINE PREMIUM✮",HBO POP FHD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/96201.m3u8
+#EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO POP HD" tvg-logo="https://i.ibb.co/nmPF9J3/hbopop2.png" group-title="✮CINE PREMIUM✮",HBO POP HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/96202.m3u8
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/tMJw0Cs/hbopop1.png" group-title="✮CINE PREMIUM✮",HBO POP
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/96203.m3u8
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO MUNDI FHD | MX" tvg-logo="https://i.ibb.co/GHngdzz/hbomun3.png" group-title="✮CINE PREMIUM✮",HBO MUNDI FHD | MX
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/96204.m3u8
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO MUNDI HD" tvg-logo="https://i.ibb.co/7Qr4FNj/hbomu1.png" group-title="✮CINE PREMIUM✮",HBO MUNDI HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/96205.m3u8
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO MUNDI" tvg-logo="https://i.ibb.co/rH1sYsg/hbomu2.png" group-title="✮CINE PREMIUM✮",HBO MUNDI
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/96206.m3u8
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO XTREME HD" tvg-logo="https://i.ibb.co/bPRQG6P/hboext1.png" group-title="✮CINE PREMIUM✮",HBO XTREME HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/96207.m3u8
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/CtGbJqx/hboextr3.png" group-title="✮CINE PREMIUM✮",HBO XTREME
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/96208.m3u8
+#EXTINF:-1 tvg-id="HBO XTREME.co" tvg-name="HBO XTREME HD | MX" tvg-logo="https://i.ibb.co/K7bvj7t/hboext2.png" group-title="✮CINE PREMIUM✮",HBO XTREME HD | MX
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/96209.m3u8
+#EXTINF:-1 tvg-id="MCINLA" tvg-name="Multicinema" tvg-logo="https://i.ibb.co/921VFpp/multicinema.png" group-title="✮CINE PREMIUM✮",Multicinema
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/140365.m3u8
+#EXTINF:-1 tvg-id="CINESTE" tvg-name="CINE ESTELAR" tvg-logo="https://i.ibb.co/gMMxZ5h/cineestelar.png" group-title="✮CINE PREMIUM✮",CINE ESTELAR
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/148901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Universe HD" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="EXTRA CINE",Cinema DC Universe HD
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/140943.m3u8
 #########################################(RADIOS CRISTIANAS)########
 #EXTINF:-1 tvg-logo="https://tinyurl.com/Mgrad110"group-title="RADIO CRISTIANA",MONTE GRANDE RADIO
 https://radios.yanapak.org/montegranderadio
