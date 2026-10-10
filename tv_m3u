@@ -356,6 +356,27 @@ http://superxlatino.com:8880/live//NatalyS4324/YAZD3tXg6E5U/429051.m3u8
 http://superxlatino.com:8880/live//NatalyS4324/YAZD3tXg6E5U/429052.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Telecolor Amazonia" tvg-logo="http://redworld.pro:8880/images/ee8668e4e957dd70324f1462db0104ec.png" group-title="PERU", Telecolor Amazonia
 http://superxlatino.com:8880/live//NatalyS4324/YAZD3tXg6E5U/429053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 1" tvg-logo="" group-title="CANALES",TAQUILLA VIP 1
+https://main.gotencloud.xyz:8443/manolopintor/ZcLDYeK5TGdh/934
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 2" tvg-logo="" group-title="CANALES",TAQUILLA VIP 2
+https://main.gotencloud.xyz:8443/manolopintor/ZcLDYeK5TGdh/932
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 3" tvg-logo="" group-title="CANALES",TAQUILLA VIP 3
+https://main.gotencloud.xyz:8443/manolopintor/ZcLDYeK5TGdh/962
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 4" tvg-logo="" group-title="CANALES",TAQUILLA VIP 4
+https://main.gotencloud.xyz:8443/manolopintor/ZcLDYeK5TGdh/974
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 5" tvg-logo="" group-title="CANALES",TAQUILLA VIP 5
+https://main.gotencloud.xyz:8443/manolopintor/ZcLDYeK5TGdh/1137
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 6" tvg-logo="" group-title="CANALES",TAQUILLA VIP 6
+https://main.gotencloud.xyz:8443/manolopintor/ZcLDYeK5TGdh/1136
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 7" tvg-logo="" group-title="CANALES",TAQUILLA VIP 7
+https://main.gotencloud.xyz:8443/manolopintor/ZcLDYeK5TGdh/1140
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 8" tvg-logo="" group-title="CANALES",TAQUILLA VIP 8
+https://main.gotencloud.xyz:8443/manolopintor/ZcLDYeK5TGdh/1142
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 9" tvg-logo="" group-title="CANALES",TAQUILLA VIP 9
+https://main.gotencloud.xyz:8443/manolopintor/ZcLDYeK5TGdh/3114
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 10" tvg-logo="" group-title="CANALES",TAQUILLA VIP 10
+https://main.gotencloud.xyz:8443/manolopintor/ZcLDYeK5TGdh/3115
+
 #########################################(RADIOS CRISTIANAS)########
 #EXTINF:-1 tvg-logo="https://tinyurl.com/Mgrad110"group-title="RADIO CRISTIANA",MONTE GRANDE RADIO
 https://radios.yanapak.org/montegranderadio
