@@ -1,10 +1,11 @@
 #EXTM3U
+
 ===24/7===
-#EXTINF:-1 tvg-id="" tvg-name="LA RElNA D€L SÙR" tvg-logo="" group-title="24/7",LA RElNA D€L SÙR
+#EXTINF:-1 tvg-id="" tvg-name="LA REINA DEL SUR" tvg-logo="" group-title="24/7",LA REINA DEL SUR
 http://daleplaytv.vip/live/123MMM/654321/521237.ts
 #EXTINF:-1 tvg-id="" tvg-name="Betty la fea" tvg-logo="http://myplayente.dynns.com:80/images/5161dff4eba7730e4a2d643fce85d0b5.jpeg" group-title="24/7",Betty la fea
 http://daleplaytv.vip/live/123MMM/654321/452451.ts
-#EXTINF:-1 tvg-id="" tvg-name="ll EL CHAVO DEL OCHO" tvg-logo="https://www.clipartmax.com/png/middle/423-4239319_el-chavo-el-chavo.png" group-title="24/7",ll EL CHAVO DEL OCHO
+#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO DEL OCHO" tvg-logo="https://www.clipartmax.com/png/middle/423-4239319_el-chavo-el-chavo.png" group-title="24/7",EL CHAVO DEL OCHO
 http://daleplaytv.vip/live/123MMM/654321/316936.ts
 #EXTINF:-1 tvg-id="" tvg-name=" Chespirito " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Chespirito.png" group-title="24/7", Chespirito
 http://daleplaytv.vip/live/123MMM/654321/316937.ts
@@ -28,9 +29,9 @@ http://daleplaytv.vip/live/123MMM/654321/403685.ts
 http://daleplaytv.vip/live/123MMM/654321/316940.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Cine5_logo.png" group-title="24/7",CINE 5
 http://daleplaytv.vip/live/123MMM/654321/316946.ts
-#EXTINF:-1 tvg-id="" tvg-name="TlM0N & PUMBA" tvg-logo="" group-title="24/7",TlM0N & PUMBA
+#EXTINF:-1 tvg-id="" tvg-name="TlM0N & PUMBA" tvg-logo="" group-title="24/7",TIMON & PUMBA
 http://daleplaytv.vip/live/123MMM/654321/456263.ts
-#EXTINF:-1 tvg-id="" tvg-name="L0S SlMPS0NS" tvg-logo="http://127.0.0.1/" group-title="24/7",L0S SlMPS0NS
+#EXTINF:-1 tvg-id="" tvg-name="L0S SlMPS0NS" tvg-logo="http://127.0.0.1/" group-title="24/7",L0S SlMPSONS
 http://daleplaytv.vip/live/123MMM/654321/316941.ts
 #EXTINF:-1 tvg-id="" tvg-name="Don gato y su Pandilla " tvg-logo="" group-title="24/7",Don gato y su Pandilla
 http://daleplaytv.vip/live/123MMM/654321/362429.ts
@@ -38,17 +39,17 @@ http://daleplaytv.vip/live/123MMM/654321/362429.ts
 http://daleplaytv.vip/live/123MMM/654321/316942.ts
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="http://mundo2.pro:80/images/66f2e8ab629eab6cc052e831beaa21a5.png" group-title="24/7",DRAGON BALL Z
 http://daleplaytv.vip/live/123MMM/654321/316973.ts
-#EXTINF:-1 tvg-id="" tvg-name="l CAZA FANTASMAS retro " tvg-logo="" group-title="24/7",l CAZA FANTASMAS retro
+#EXTINF:-1 tvg-id="" tvg-name="l CAZA FANTASMAS retro " tvg-logo="" group-title="24/7",CAZA FANTASMAS retro
 http://daleplaytv.vip/live/123MMM/654321/381419.ts
 #EXTINF:-1 tvg-id="" tvg-name="CASA de Mlckey møusę" tvg-logo="" group-title="24/7",CASA de Mlckey møusę
 http://daleplaytv.vip/live/123MMM/654321/362461.ts
-#EXTINF:-1 tvg-id="" tvg-name="L0s Pingüinos Madagascar" tvg-logo="" group-title="24/7",L0s Pingüinos Madagascar
+#EXTINF:-1 tvg-id="" tvg-name="L0s Pingüinos Madagascar" tvg-logo="" group-title="24/7",Los Pingüinos Madagascar
 http://daleplaytv.vip/live/123MMM/654321/366250.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ganes o Pierdas " tvg-logo="" group-title="24/7",Ganes o Pierdas
 http://daleplaytv.vip/live/123MMM/654321/366259.ts
 #EXTINF:-1 tvg-id="" tvg-name="L0S PICAPlEDRAS" tvg-logo="" group-title="24/7",L0S PICAPlEDRAS
 http://daleplaytv.vip/live/123MMM/654321/362435.ts
-#EXTINF:-1 tvg-id="" tvg-name="l MAHA ¥ EL 0S0" tvg-logo="" group-title="24/7",l MAHA ¥ EL 0S0
+#EXTINF:-1 tvg-id="" tvg-name="l MAHA ¥ EL 0S0" tvg-logo="" group-title="24/7",l MASHA Y EL OSO
 http://daleplaytv.vip/live/123MMM/654321/383312.ts
 #EXTINF:-1 tvg-id="" tvg-name="Pinky y Cerebro " tvg-logo="" group-title="24/7",Pinky y Cerebro
 http://daleplaytv.vip/live/123MMM/654321/362437.ts
@@ -231,6 +232,7 @@ http://daleplaytv.vip/live/123MMM/654321/317101.ts
 #EXTINF:-1 tvg-id="" tvg-name="Suspense Movies" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="24/7",Suspense Movies
 http://daleplaytv.vip/live/123MMM/654321/317102.ts
 
+
 ===ARGENTINA===
 #EXTINF:-1 tvg-id="" tvg-name="AMERICA HD²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="ARGENTINA",AMERICA HD²
 http://daleplaytv.vip/live/123MMM/654321/81275.ts
@@ -309,6 +311,7 @@ http://daleplaytv.vip/live/123MMM/654321/305969.ts
 #EXTINF:-1 tvg-id="" tvg-name="NET TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png" group-title="ARGENTINA",NET TV HD
 http://daleplaytv.vip/live/123MMM/654321/305968.ts
 
+
 ===CHILE===
 #EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CHILEVISION HD" tvg-logo="http://mundo2.pro:80/images/361536b9d8be725e99850ab2b8b65e63.png" group-title="CHILE",CHILEVISION HD
 http://daleplaytv.vip/live/123MMM/654321/55272.ts
@@ -324,6 +327,7 @@ http://daleplaytv.vip/live/123MMM/654321/55276.ts
 http://daleplaytv.vip/live/123MMM/654321/55278.ts
 #EXTINF:-1 tvg-id="teletrak.cl" tvg-name="TVN  HD OP 2" tvg-logo="http://mundo2.pro:80/images/a486a534c887f371c91a18619b9337ce.png" group-title="CHILE",TVN  HD OP 2
 http://daleplaytv.vip/live/123MMM/654321/55279.ts
+
 
 ===CINE===
 #EXTINF:-1 tvg-id="" tvg-name="FILMS & ARTS" tvg-logo="http://mundo2.vip:8080/images/5158b013c9827ca60160ef8925d1edba.png" group-title="CINE",FILMS & ARTS
@@ -475,6 +479,7 @@ http://daleplaytv.vip/live/123MMM/654321/346686.ts
 #EXTINF:-1 tvg-id="" tvg-name="DHE HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="CINE",DHE HD
 http://daleplaytv.vip/live/123MMM/654321/400290.ts
 
+
 ===CINEMA VIP===
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX FHD" tvg-logo="http://mundo2.vip:8080/images/3e55ed4c490f422dc63a7c1ef85f93c6.png" group-title="CINEMA VIP",NETFLIX FHD
 http://daleplaytv.vip/live/123MMM/654321/317032.ts
@@ -490,6 +495,7 @@ http://daleplaytv.vip/live/123MMM/654321/317042.ts
 http://daleplaytv.vip/live/123MMM/654321/317043.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 12 FHD" tvg-logo="http://mundo2.vip:8080/images/9c8de2c54e2551f5573b163f410bb850.png" group-title="CINEMA VIP",CINEMA VIP 12 FHD
 http://daleplaytv.vip/live/123MMM/654321/317046.ts
+
 
 ===COLOMBIA===
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL FHD" tvg-logo="http://mundo2.pro:80/images/b111d5d14e967ef8b0901fe5fdb3280f.png" group-title="COLOMBIA",CARACOL FHD
@@ -564,6 +570,7 @@ http://daleplaytv.vip/live/123MMM/654321/69261.ts
 http://daleplaytv.vip/live/123MMM/654321/69273.ts
 #EXTINF:-1 tvg-id="" tvg-name="La kalle" tvg-logo="http://mundo2.pro:80/images/5d9089f6577c1f16cda6dec508d2d379.png" group-title="COLOMBIA",La kalle
 http://daleplaytv.vip/live/123MMM/654321/69287.ts
+
 
 ===CULTURA===
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2he_V5EXXTHItP1KU4wxitqgJH_SHy6yBRNYEx-AXwg&s=10" group-title="CULTURA",Discovery Channel HD
@@ -645,6 +652,7 @@ http://daleplaytv.vip/live/123MMM/654321/53459.ts
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJzP4d0bowgYqDo9DlOwQ_2EyL7K8xqucdU8dq5lLLxQ&s=10" group-title="CULTURA",NATGEO WILD HD
 http://daleplaytv.vip/live/123MMM/654321/54171.ts
 
+
 ===DEPORTES ARGENTINA===
 #EXTINF:-1 tvg-id="" tvg-name="ESPN (¹) HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qzobqn1660760939.png" group-title="DEPORTES ARGENTINA",ESPN (¹) HD
 http://daleplaytv.vip/live/123MMM/654321/81262.ts
@@ -679,6 +687,7 @@ http://daleplaytv.vip/live/123MMM/654321/81539.ts
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPRTS " tvg-logo="http://mundo2.pro:80/images/2aaf0c473413e80cde32fcf546039218.png" group-title="DEPORTES ARGENTINA",TYC SPRTS
 http://daleplaytv.vip/live/123MMM/654321/361001.ts
 
+
 ===DEPORTES CHILE===
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS HD/OP/ 01" tvg-logo="http://mundo2.pro:80/images/c225cdb5c9a1b6ec33c4d5f8814e6770.png" group-title="DEPORTES CHILE",TNT SPORTS HD/OP/ 01
 http://daleplaytv.vip/live/123MMM/654321/276332.ts
@@ -686,6 +695,7 @@ http://daleplaytv.vip/live/123MMM/654321/276332.ts
 http://daleplaytv.vip/live/123MMM/654321/276334.ts
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS HD / OP / 02" tvg-logo="http://mundo2.pro:80/images/c225cdb5c9a1b6ec33c4d5f8814e6770.png" group-title="DEPORTES CHILE",TNT SPORTS HD / OP / 02
 http://daleplaytv.vip/live/123MMM/654321/276335.ts
+
 
 ===DEPORTES COLOMBIA===
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS +  FHD" tvg-logo="http://mundo2.pro:80/images/13e0546dd2a121a888de5223ddf530dc.png" group-title="DEPORTES COLOMBIA",WIN SPORTS +  FHD
@@ -701,6 +711,7 @@ http://daleplaytv.vip/live/123MMM/654321/69293.ts
 #EXTINF:-1 tvg-id="" tvg-name="Win Sports SD" tvg-logo="http://mundo2.pro:80/images/cf1a7657ce6424825327f193d3d30618.png" group-title="DEPORTES COLOMBIA",Win Sports SD
 http://daleplaytv.vip/live/123MMM/654321/69294.ts
 
+
 ===DEPORTES ECUADOR===
 #EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FUTBOL OP1" tvg-logo="https://generador.nubservices.com/logos/panel/346552-ecdf-2-op1-mulmal6t.png" group-title="DEPORTES ECUADOR",EL CANAL DEL FUTBOL OP1
 http://daleplaytv.vip/live/123MMM/654321/567082.ts
@@ -712,6 +723,7 @@ http://daleplaytv.vip/live/123MMM/654321/567079.ts
 http://daleplaytv.vip/live/123MMM/654321/314939.ts
 #EXTINF:-1 tvg-id="" tvg-name="3CDF HD OP 02" tvg-logo="https://generador.nubservices.com/logos/panel/346553-ecdf-2-op2-mulmalkq.png" group-title="DEPORTES ECUADOR",3CDF HD OP 02
 http://daleplaytv.vip/live/123MMM/654321/314940.ts
+
 
 ===DEPORTES PERU===
 #EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX HD" tvg-logo="http://mundo2.pro:80/images/40ba759cb9ffa5cdf2c918ed6030a2bf.jpg" group-title="DEPORTES PERU",LIGA 1 MAX HD
@@ -774,6 +786,7 @@ http://daleplaytv.vip/live/123MMM/654321/306866.ts
 http://daleplaytv.vip/live/123MMM/654321/306867.ts
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES SD" tvg-logo="http://mundo2.pro:80/images/14a69f131316595f9a3ad6521e4ad515.jpg" group-title="DEPORTES PERU",MOVISTAR DEPORTES SD
 http://daleplaytv.vip/live/123MMM/654321/306868.ts
+
 
 ===ECUADOR===
 #EXTINF:-1 tvg-id="" tvg-name="Ecuador TV HD" tvg-logo="http://imgfz.com/i/t0ngLrm.png" group-title="ECUADOR",Ecuador TV HD
@@ -855,6 +868,7 @@ http://daleplaytv.vip/live/123MMM/654321/443042.ts
 #EXTINF:-1 tvg-id="" tvg-name="CURIQUINGUE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIoY-YhWHiB-FULuA7wcQ8798RboKnIGpSA_LhAuNlHnm0oiOa91jpKcs&s=10" group-title="ECUADOR",CURIQUINGUE TV
 http://daleplaytv.vip/live/123MMM/654321/443048.ts
 
+
 ===INFANTILES===
 #EXTINF:-1 tvg-id="nickelodeon.co" tvg-name="NICKTOONS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/250px-Nicktoons_2023_Outlined_Logo.png" group-title="INFANTILES",NICKTOONS HD
 http://daleplaytv.vip/live/123MMM/654321/132709.ts
@@ -902,6 +916,7 @@ http://daleplaytv.vip/live/123MMM/654321/132693.ts
 http://daleplaytv.vip/live/123MMM/654321/132695.ts
 #EXTINF:-1 tvg-id="" tvg-name="TOONCAST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Toncst.png" group-title="INFANTILES",TOONCAST HD
 http://daleplaytv.vip/live/123MMM/654321/132703.ts
+
 
 ===LATINOS===
 #EXTINF:-1 tvg-id="" tvg-name="AGRO TV" tvg-logo="http://mundo2.vip:8080/images/af50c4ae90f1936b996291eb7d0a0be8.png" group-title="LATINOS",AGRO TV
@@ -1059,6 +1074,7 @@ http://daleplaytv.vip/live/123MMM/654321/317569.ts
 #EXTINF:-1 tvg-id="" tvg-name="AMC SERlES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUkoI91Y4b_NUBoYD6-LXyNiARFKcRXyGp1EmVoNLXUPnYCJIRPswD8Pb_ioxfVwmaRgMF9CZfeuu6OM7ImjeiRRAHchr7Bu6gFQgSzXFp4qBgSI98m678iS86AXmHSiYp3w8Fi_8YGVC-MJ3-WxIhUaoWPLBAL3W9U_1ubAyzyiLsaSPmpXuiEKGMjNx/w1200-h675-p-k-no-nu/maxresdefault.jpg" group-title="LATINOS",AMC SERlES
 http://daleplaytv.vip/live/123MMM/654321/317539.ts
 
+
 ===LIGA MEXICANA===
 #EXTINF:-1 tvg-id="" tvg-name="TUDN USA HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="LIGA MEXICANA",TUDN USA HD
 http://daleplaytv.vip/live/123MMM/654321/437846.ts
@@ -1092,6 +1108,7 @@ http://daleplaytv.vip/live/123MMM/654321/475136.ts
 http://daleplaytv.vip/live/123MMM/654321/475133.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal 5" tvg-logo="http://mundo2.pro:80/images/bf6cab5221b09da6cfcfa2cf09340725.png" group-title="LIGA MEXICANA",Canal 5
 http://daleplaytv.vip/live/123MMM/654321/362477.ts
+
 
 ===MEXICO===
 #EXTINF:-1 tvg-id="" tvg-name="MILENIO TV HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/496px-Milenio_Television.png" group-title="MEXICO",MILENIO TV HD
@@ -1629,6 +1646,7 @@ http://daleplaytv.vip/live/123MMM/654321/451023.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVP Culiacan" tvg-logo="http://ceoapps.org/logos/tvp.png" group-title="MEXICO",TVP Culiacan
 http://daleplaytv.vip/live/123MMM/654321/451025.ts
 
+
 ===PERU===
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DE PORTADA" tvg-logo="" group-title="PERU",CANAL DE PORTADA
 http://daleplaytv.vip/live/123MMM/654321/567453.ts
@@ -1691,6 +1709,7 @@ http://daleplaytv.vip/live/123MMM/654321/306694.ts
 #EXTINF:-1 tvg-id="" tvg-name="C4N4L N HD" tvg-logo="http://mundo2.pro:80/images/4709ead2b0079d2d9ae797c94baf3e2a.png" group-title="PERU",C4N4L N HD
 http://daleplaytv.vip/live/123MMM/654321/306678.ts
 
+
 ===TELENOVELAS===
 #EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS HD" tvg-logo="http://mundo2.pro:80/images/8b5ebed151987db2f42ab9a07ede1e2d.png" group-title="TELENOVELAS",TELENOVELAS HD
 http://daleplaytv.vip/live/123MMM/654321/360898.ts
@@ -1720,6 +1739,7 @@ http://daleplaytv.vip/live/123MMM/654321/360891.ts
 http://daleplaytv.vip/live/123MMM/654321/360892.ts
 #EXTINF:-1 tvg-id="" tvg-name="Telenovelas Unv HD" tvg-logo="http://mundo2.pro:80/images/73abf6e1d28db5ee0f21e09cb04eb6f3.png" group-title="TELENOVELAS",Telenovelas Unv HD
 http://daleplaytv.vip/live/123MMM/654321/360903.ts
+
 
 ===VENEZUELA===
 #EXTINF:-1 tvg-id="" tvg-name="Televen" tvg-logo="" group-title="VENEZUELA",Televen
@@ -1759,6 +1779,7 @@ http://daleplaytv.vip/live/123MMM/654321/360393.ts
 #EXTINF:-1 tvg-id="" tvg-name="TLT" tvg-logo="http://127.0.0.1/" group-title="VENEZUELA",TLT
 http://daleplaytv.vip/live/123MMM/654321/360394.ts
 
+
 ===ZONA  DSPORTS===
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS" tvg-logo="http://myplayente.dynns.com:80/images/81vuVQTMqoCkld3sCzAzQMTuEQ7tt8sRTstlKnGAqtxI4Kn0xUtZDlZNoLj1QV0J5O6BPOvEleKAAHHbIOOfyA.png" group-title="ZONA  DSPORTS",DSPORTS
 http://daleplaytv.vip/live/123MMM/654321/558622.ts
@@ -1774,6 +1795,7 @@ http://daleplaytv.vip/live/123MMM/654321/50726.ts
 http://daleplaytv.vip/live/123MMM/654321/54471.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSP0RTS + 0PC ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="ZONA  DSPORTS",DSP0RTS + 0PC ²
 http://daleplaytv.vip/live/123MMM/654321/54472.ts
+
 
 ===ZONA  ESPN===
 #EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://mundo2.pro:80/images/db74988ae31d459907f62c43dcc987eb.jpg" group-title="ZONA  ESPN",ESPN HD
@@ -1811,6 +1833,7 @@ http://daleplaytv.vip/live/123MMM/654321/306399.ts
 #EXTINF:-1 tvg-id="" tvg-name="Espn Deportes HD" tvg-logo="http://mundo2.pro:80/images/baa4d872ef0fa798840a3bdb57173ca1.png" group-title="ZONA  ESPN",Espn Deportes HD
 http://daleplaytv.vip/live/123MMM/654321/360915.ts
 
+
 ===ZONA DAZN===
 #EXTINF:-1 tvg-id="LA 1" tvg-name="DAZN  1 FHD." tvg-logo="http://daleplaypro.com:8080/images/340b9b4eece1e82a2fadcdee529dd457.png" group-title="ZONA DAZN",DAZN  1 FHD.
 http://daleplaytv.vip/live/123MMM/654321/110224.ts
@@ -1834,6 +1857,7 @@ http://daleplaytv.vip/live/123MMM/654321/110226.ts
 http://daleplaytv.vip/live/123MMM/654321/124768.ts
 #EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN M+ 2" tvg-logo="http://daleplaypro.com:8080/images/340b9b4eece1e82a2fadcdee529dd457.png" group-title="ZONA DAZN",DAZN M+ 2
 http://daleplaytv.vip/live/123MMM/654321/110232.ts
+
 
 ===ZONA FOX SPORTS===
 #EXTINF:-1 tvg-id="605" tvg-name="FOX SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/1200px-Fox_Sports_Argentina_2023.svg.png" group-title="ZONA FOX SPORTS",FOX SPORTS 1 HD
@@ -1864,6 +1888,7 @@ http://daleplaytv.vip/live/123MMM/654321/306304.ts
 http://daleplaytv.vip/live/123MMM/654321/306175.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUSD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Fox_sports_premium_mx.png" group-title="ZONA FOX SPORTS",FOX SPORTS PREMIUSD
 http://daleplaytv.vip/live/123MMM/654321/306664.ts
+
 
 ===ZONA VIX===
 #EXTINF:-1 tvg-id="" tvg-name="VIX Premium La Que No Podia Amar" tvg-logo="http://mundo2.pro:80/images/8fd452081c17e6d01fd4c249fd22e5bd.png" group-title="ZONA VIX",VIX Premium La Que No Podia Amar
